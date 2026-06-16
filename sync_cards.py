@@ -59,7 +59,7 @@ for c in cards:
     ])
 
 df = pd.DataFrame(filtered, columns=[
-    "id", "name", "set", "collector"
+    "id", "name", "set", "collector", "newPrice"
 ])
 
 output_file = "mtg_cards_filtered.csv"
