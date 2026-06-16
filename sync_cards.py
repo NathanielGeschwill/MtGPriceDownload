@@ -8,15 +8,29 @@ bulk = requests.get(
     headers={"User-Agent": "MTG Tracker/1.0"}
 ).json()
 
-download_url = next(
-    x["download_uri"]
-    for x in bulk["data"]
-    if x["type"] == "default_cards"
+default_cards = next(
+    (x for x in bulk["data"] if x["type"] == "default_cards"),
+    None
 )
+
+if not default_cards:
+    raise Exception("default_cards bulk file not found")
+
+download_url = default_cards["download_uri"]
 
 print("Downloading bulk file...")
 
-cards = requests.get(download_url).json()
+response = requests.get(
+    download_url,
+    headers={"User-Agent": "MTG Tracker/1.0"}
+)
+
+print("Status:", response.status_code)
+print(response.text[:500])
+
+response.raise_for_status()
+
+cards = response.json()
 
 print("Filtering cards...")
 
