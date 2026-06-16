@@ -40,7 +40,8 @@ for c in cards:
         c["id"],
         c["name"],
         c["set"].upper(),
-        c["collector_number"]
+        c["collector_number"],
+        prices.get("usd")
     ])
 
 df = pd.DataFrame(filtered, columns=[
