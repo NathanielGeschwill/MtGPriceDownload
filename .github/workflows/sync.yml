@@ -2,7 +2,7 @@ name: Sync MTG Cards
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '36 6 * * *'
   workflow_dispatch:
 
 permissions:
