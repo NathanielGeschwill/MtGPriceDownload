@@ -1,5 +1,8 @@
 import requests
 import pandas as pd
+import gzip
+import json
+import io
 
 print("Fetching Scryfall bulk metadata...")
 
@@ -16,7 +19,7 @@ default_cards = next(
 if not default_cards:
     raise Exception("default_cards bulk file not found")
 
-download_url = default_cards["download_uri"]
+download_url = default_cards["jsonl_download_uri"]
 
 print("Downloading bulk file...")
 
@@ -30,7 +33,8 @@ print(response.text[:500])
 
 response.raise_for_status()
 
-cards = response.json()
+with gzip.open(io.BytesIO(response.content), "rt") as f:
+    cards = [json.loads(line) for line in f]
 
 print("Filtering cards...")
 
