@@ -88,7 +88,7 @@ id,name,set,collector,newPrice
 00e990aa-5124-4e9d-ab4e-178bcda12abd,Goblin Lore,10E,208,1.27
 00ef8f06-dfcc-4ffa-a054-b0c81b39dcc0,Amarant Coral,FIC,457,3.61
 00f0ab3f-86c5-49f6-948b-ace35bc03889,Mountain,PTK,177,18.25
-00f40514-d37d-423f-aa0c-1875300f43a8,"Gríma, Saruman's Footman",LTC,57,1.30
+00f40514-d37d-423f-aa0c-1875300f43a8,"Gríma, Saruman's Footman",LTC,57,1.33
 00f8931e-6402-483c-a9e8-63ee344c36a7,Faerie Noble,HML,86,2.24
 00f9955f-a522-47bf-b064-92dd21a76b18,Solemn Simulacrum,MRD,245,1.45
 00fc97d3-d8e4-4234-a6da-7b17316fa9ac,Truga Jungle,OPC2,38,1.86
@@ -912,6 +912,7 @@ id,name,set,collector,newPrice
 098e528a-bd6c-41f3-a246-cba986c54776,Explore,SLD,114,5.85
 09901fef-3daf-4890-9d8f-466881326cbd,Paul McCabe Bio,WC97,pm0a,4.75
 09921372-126f-4c81-b6d8-ea50b1d0eb44,Wasp,T30A,16,13.00
+0992ce8b-7bef-4799-a52d-7a46021a8672,"Thranduil, Sindarin Liege // Silvan Rally",HOB,233,7.00
 099352e2-38c8-4fb4-a25f-6d928aa20f9e,"Shizo, Death's Storehouse",DMC,233,34.17
 0994aef4-b341-45f4-8881-523565a5956e,Blood Crypt,RVR,273,11.82
 09951b0c-85a9-421e-9e44-f75712c228c3,"Jegantha, the Wellspring",PIKO,222p,1.51
@@ -1093,7 +1094,7 @@ id,name,set,collector,newPrice
 0b82c865-ae3e-43f0-9ac8-fabdd5539b36,"Abomination, Irradiated Brute",MSC,511,2.55
 0b82ca44-6c80-4220-bf41-76a62cd3459f,Crippling Fear,PKHM,82p,1.52
 0b84d68b-72b5-4fd3-a6f9-80ac26f16583,Karplusan Forest,PTC,et356,1.49
-0b84e232-428c-424a-848c-ef95debc6e50,Bard the Bowman,HOB,145,2.99
+0b84e232-428c-424a-848c-ef95debc6e50,Bard the Bowman,HOB,145,2.34
 0b8a0cad-92df-45a1-a3cc-561be2f06778,The Dark Barony,OPCA,19,1.83
 0b8aff2c-1f7b-4507-b914-53f8c4706b3d,"Azusa, Lost but Seeking",M21,173,11.65
 0b8c7377-1404-44a4-9689-1fc6cdc286c8,Coastal Wizard,P02,34,1.93
@@ -1244,7 +1245,7 @@ id,name,set,collector,newPrice
 0cde95ea-ad1a-4acb-a8bd-5457f119aeb7,Juggernaut,2ED,256,14.61
 0cdf4215-0867-47d8-ae61-0da2af542d7b,Fell the Mighty,SLD,2690,1.90
 0ce39a19-f51d-4a35-ae80-5b82eb15fcff,Blightstep Pathway // Searstep Pathway,KHM,252,5.83
-0ce44270-a684-4489-9077-521456e6dfaa,Lórien Revealed,LTR,60,5.13
+0ce44270-a684-4489-9077-521456e6dfaa,Lórien Revealed,LTR,60,5.17
 0ce562a9-ca35-4f31-8618-bc26d3d40169,Aethersnatch,C15,9,1.15
 0ce5e24a-84e3-4ecb-924d-1a92b0da914a,Swarmyard Massacre,BLC,55,5.17
 0ce616c9-af7f-4b81-bc94-dae14ffbf822,Rootcast Apprenticeship,BLC,65,1.61
@@ -1513,7 +1514,7 @@ id,name,set,collector,newPrice
 0f375bb9-1294-4f43-8f0c-504ed6cfb7d0,Boros Charm,OTC,216,5.13
 0f3c8470-1cc8-4383-8782-c022867d46e8,"Tezzeret, Agent of Bolas",MBS,97,3.64
 0f4174e4-0be8-49b5-8c52-22001790f6eb,Fallen Angel,LEG,97,9.55
-0f44a54b-512e-45ef-80ee-7982d2eaf762,Sol Ring,WHO,245,1.92
+0f44a54b-512e-45ef-80ee-7982d2eaf762,Sol Ring,WHO,245,1.94
 0f45e837-7b98-46ef-b21b-e3508ce999e5,Lady Sun,PTK,45,94.43
 0f462d81-bb1b-4d44-8952-6dff52970792,"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",FIN,483,9.50
 0f46a800-b443-461d-87e0-5587249a42d8,Temporal Mastery,INR,90,4.88
@@ -1582,7 +1583,7 @@ id,name,set,collector,newPrice
 0fe6e7d3-7e33-4e6b-91c8-47fd4ba3cb5b,Berserk,SOA,50,7.12
 0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5,"Vito, Thorn of the Dusk Rose",M21,127,11.92
 0fe90c85-c9ef-4ceb-9dc3-4d428b4157d5,Flamekin Village,CM2,251,1.55
-0feb9817-56e1-465a-851c-b2fe202aa8ae,Ordinary Bear,HOB,133,1.98
+0feb9817-56e1-465a-851c-b2fe202aa8ae,Ordinary Bear,HOB,133,1.71
 0fec5898-f288-4fb6-a2d3-2ea6d20594bf,Mana Short,3ED,67,3.26
 0feefb72-f6fa-4897-b2cf-6f14a3e5d466,Careful Study,SLD,1768,9.04
 0ff34d0b-a278-4990-beaf-5a64885460db,Blinkmoth Urn,MRD,145,1.53
@@ -1912,6 +1913,7 @@ id,name,set,collector,newPrice
 13571bf6-44e1-4975-999d-c44e6709dd5d,Helm of Awakening,DMR,379,1.47
 135a7cf6-0bea-4f5b-b768-e7b6a8b78508,Steam Vents,PGRN,257p,13.29
 135b6adb-5c9c-4852-8c2a-c6f6d9bf96b1,Honden of Night's Reach,EMA,91,3.29
+135da718-affc-46ba-be57-c12c23b54dad,"Azog, Moria's Ruin",HOB,61,3.30
 135de5c7-6ac9-4b68-8f1a-97f120a4b125,Mishra's Workshop,ATQ,81,3000.97
 13604ba3-b238-4a63-80f7-9dc2d5d04ded,Megrim,10E,157,1.34
 13688c4d-d63f-4cef-8aae-16aec7b9effc,Fated Firepower,TLA,341,16.91
@@ -1942,7 +1944,7 @@ id,name,set,collector,newPrice
 13ad7bb2-e58b-4cd1-9b32-38c7f8589214,Dragon Tempest,SCD,133,2.15
 13c45f04-b844-4219-b7c5-5fd42edacc78,"Yeva, Nature's Herald",SLD,1284,7.19
 13c474f7-38f1-4e46-8619-dd2a1b23c158,Counterspell,WC97,pm77,1.44
-13c6101a-da40-4785-8ccb-4e779bbbdb55,Liquimetal Torque,MH2,228,3.40
+13c6101a-da40-4785-8ccb-4e779bbbdb55,Liquimetal Torque,MH2,228,3.32
 13c6492c-e45e-4c70-912b-2c821def8353,Stream of Life,CEI,218,3.58
 13c85292-7dc8-4824-8e7f-189ab9420af8,"Lady Octopus, Inspired Inventor",SPM,252,1.12
 13ce52f5-6d49-4d44-a3d7-925340de8406,Eternal Scourge,EMN,7,2.06
@@ -2045,7 +2047,7 @@ id,name,set,collector,newPrice
 14e3b4bd-f3db-49a9-8a67-6ea6a3cd320d,Hill Giant,30A,153,1.00
 14e4e5a4-dcd0-4565-afcb-42a089f1559a,Commander's Sphere,SLD,203,8.29
 14e5d253-e075-4df4-98af-4ae43c000634,Drench the Soil in Their Blood,DCI,57,2.05
-14e69ca4-5148-44ec-bb21-330e656a6833,Wizard's Staff,HOB,294,36.99
+14e69ca4-5148-44ec-bb21-330e656a6833,Wizard's Staff,HOB,294,36.49
 14e8195a-d0e4-4b11-b413-765ed1cae834,Delaying Shield,ODY,17,6.82
 14e870a0-5699-4f42-b67a-8dbd24e0c9c2,Gauntlet of Power,TSR,267,4.05
 14eadf46-90c2-4376-8183-6a922a60174d,The Rise of Sozin // Fire Lord Sozin,TLA,117,1.50
@@ -2079,7 +2081,7 @@ id,name,set,collector,newPrice
 15360a16-b785-4ffe-bfa8-6c7f6a37455d,Mycoloth,ALA,140,3.61
 15396cc4-d302-4076-9367-c8312f6a2e61,"Kytheon, Hero of Akros // Gideon, Battle-Forged",PLST,ORI-23,1.81
 153983dd-54dc-420d-9249-665b0d669614,Lotus Petal,PLST,TMP-294,36.91
-153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9,Beorn's Hospitality,HOB,120,2.63
+153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9,Beorn's Hospitality,HOB,120,2.68
 153d7669-9063-4fc2-b53b-480b0e741f3f,Greater Good,9ED,245,7.95
 153f93fd-4f2c-4dce-a774-4483031ed532,Pillar Tombs of Aku,VIS,67,1.03
 15406173-530f-4f4f-82f3-f3e193979fd7,Cascade Bluffs,CMM,990,1.08
@@ -2118,7 +2120,7 @@ id,name,set,collector,newPrice
 15a5bb8f-cfc5-4afa-870d-a7a7117929b2,Hourglass of the Lost,M3C,40,1.35
 15a92571-1409-40c3-84c3-da01d6f1b104,Wirewood Lodge,EVG,27,11.51
 15accf35-a174-4ba5-a633-cc46da848dbe,"Savra, Queen of the Golgari",RAV,225,5.13
-15ae4d50-be2f-412c-bb6b-b0a06b60474a,My Precious // Allure of Power,HOB,176,30.08
+15ae4d50-be2f-412c-bb6b-b0a06b60474a,My Precious // Allure of Power,HOB,176,30.05
 15b49493-2361-4d55-8356-67c61d154a15,Managorger Hydra,PORI,186p,4.85
 15b76951-0ca0-4976-bb57-b689718b4233,Smuggler's Surprise,POTJ,180p,4.32
 15bab0bd-3467-429f-897a-188e11ff101e,Nazgûl,LTR,727,63.58
@@ -2713,7 +2715,7 @@ id,name,set,collector,newPrice
 1b54349c-d649-4947-8dfa-bcf2aebeab57,Trickbind,SLD,1774,9.38
 1b566d35-af4e-464b-8d9e-ea898a1bbad4,Drudge Skeletons,30A,103,4.43
 1b58856a-f88e-4625-8636-62b5c717b956,Violent Outburst,ARB,63,3.75
-1b59533a-3e38-495d-873e-2f89fbd08494,Sol Ring,C13,259,1.72
+1b59533a-3e38-495d-873e-2f89fbd08494,Sol Ring,C13,259,1.71
 1b5a1955-c186-4cce-ade0-3179682323b6,Earthquake,CEI,147,13.30
 1b5a3ad3-c20d-4f01-8c00-e1836046be50,Masticore,WC00,jk134,5.88
 1b5d621a-2ec1-4d7b-8477-df6d9849fab5,Filth,PLST,JUD-66,5.63
@@ -2918,7 +2920,7 @@ id,name,set,collector,newPrice
 1d842f91-a04c-4b11-8ac9-0c0536b82d03,Cavern of Souls,LCI,345,47.68
 1d87e268-daab-4bf5-952c-a3baf82beb11,Smother,WC03,we170sb,3.23
 1d8b007b-3169-4ee3-80c7-781fc096fc7a,Skullclamp,MSC,210,5.30
-1d8d6d65-9692-442d-aa62-71124acc30c2,Lightning Greaves,SLD,1987,7.54
+1d8d6d65-9692-442d-aa62-71124acc30c2,Lightning Greaves,SLD,1987,7.52
 1d921e07-8c42-4b9c-9939-781020c1b571,Horn of the Mark,LTR,692,2.07
 1d92b7dd-1f63-4f34-87ca-01a0eaa7b3a1,Panharmonicon,PIP,237,6.13
 1d9479ae-2b42-4137-9e62-ef4d7fd17d0c,Ironroot Treefolk,LEB,204,5.62
@@ -3234,7 +3236,7 @@ id,name,set,collector,newPrice
 211014b3-ad13-41b3-bfb6-b907108769fd,Reality Shaping,OPCA,6,1.20
 21140417-09f5-4d05-b94c-355fde9b4719,Extinguish,PTK,43,1.22
 21146226-ff05-40d5-bc4e-42f2263104b1,Mortal Combat,TOR,71,6.62
-211a9764-3c60-46ba-bb53-e6692640ec8f,"Tom, Bert, and William",HOB,169,11.63
+211a9764-3c60-46ba-bb53-e6692640ec8f,"Tom, Bert, and William",HOB,169,11.34
 211ba440-1c29-403a-8dd7-aa5792d20a1a,Giant Growth,2ED,198,2.50
 211f7480-73a4-40e6-9249-130b96660e18,Taunt from the Rampart,LTC,151,9.69
 212a953b-3205-41bf-a5b2-5b852e889c5a,Bear Umbra,ROE,177,15.12
@@ -3344,7 +3346,7 @@ id,name,set,collector,newPrice
 226694d7-ba9b-4e79-b45a-634769815e74,"Frodo, Determined Hero",LTR,388,4.04
 226a4c5d-bf49-40d8-a7a4-341c18029634,Sage of the Beyond,OTC,111,1.63
 226b1cc4-44be-4d8d-963a-93c84b09c7f0,Gilded Goose,SCH,5,3.19
-226c386a-3382-451b-abe8-682f49f637ec,Thought Vessel,LCC,118,17.93
+226c386a-3382-451b-abe8-682f49f637ec,Thought Vessel,LCC,118,18.06
 226e5187-d285-4547-869d-761fdbee6f1b,Negate,P09,8,15.02
 226fc101-abcc-4ed4-8c0b-3677dc8d8f0a,"General Kreat, the Boltbringer",J25,48,5.75
 2271862c-b1df-45f8-bb19-ae4b8ab0739e,Teferi's Protection,PLST,C17-8,52.42
@@ -3541,7 +3543,7 @@ id,name,set,collector,newPrice
 245e16ae-4514-42fa-b409-2c3ae084436c,Arid Mesa,ZNE,9,47.96
 245ed6a8-9ff3-4e48-b33c-13024958ab91,Lord of the Pit,SLD,893,1.09
 2461bf0b-53e4-4103-8485-88a940ad66fd,Angel of Fury,P02,7,7.72
-2462358b-52c8-49b2-8d97-d65a9188f8f7,Desolation of Smaug,HOB,93,10.46
+2462358b-52c8-49b2-8d97-d65a9188f8f7,Desolation of Smaug,HOB,93,9.59
 2462df62-fc35-47ed-9571-40452074dc6d,Traveling Chocobo,FIN,210,18.35
 24643b00-9062-42bd-9ecd-f6990ddbca91,Spyglass Siren,LCI,405,1.69
 2465eafc-453c-4e4f-b369-0951b8a4b7bf,Willbreaker,ORI,84,1.74
@@ -3549,7 +3551,7 @@ id,name,set,collector,newPrice
 246a68e9-fd19-4a1e-8c7b-fcd3f7306dfb,Rule of Law,MRD,19,1.65
 246b1de7-0b50-4edd-b1a7-fd6856351b76,Memnarch,SLD,1626,8.22
 247694c5-5813-4256-9fd8-478d4be52081,Dissipation Field,SOM,32,4.74
-2476e42b-b209-4207-8ed9-cb668f89b218,Wood Elves,HOB,142,1.95
+2476e42b-b209-4207-8ed9-cb668f89b218,Wood Elves,HOB,142,1.25
 2478a8d2-ca44-4c42-8d75-dd9cb1b59f61,Living Wish,JUD,124,8.79
 247a2ba4-aa5d-4970-b886-90196f684f80,Force of Nature,2ED,195,73.56
 247de9ae-802f-4f3d-a33e-7bc9af24b8c8,Teysa Karlov,PRNA,212p,4.37
@@ -4363,7 +4365,7 @@ id,name,set,collector,newPrice
 2d389264-e2d2-4589-9636-faa11fe46710,"Tekuthal, Inquiry Dominus",EOC,78,1.27
 2d39a0e1-6484-409c-ab05-5b276925a949,Secret Tunnel,TLA,278,2.75
 2d3a1881-aa9c-4b0e-8350-e033b0367035,Drowned Catacomb,E01,94,2.91
-2d47121d-8b90-4d28-9ffa-0a640b9dd611,Sol Ring,LCC,313,1.53
+2d47121d-8b90-4d28-9ffa-0a640b9dd611,Sol Ring,LCC,313,1.54
 2d4998db-13c0-412f-b02c-9f041cc45c7e,Dragonskull Summit,M10,223,1.60
 2d4bacd1-b602-4bcc-9aea-1229949a7d20,Mystic Snake,A25,208,1.34
 2d4d87a3-5f8b-4152-9a8b-538ab49d62e8,Dwarven Warriors,LEA,143,27.47
@@ -4622,7 +4624,7 @@ id,name,set,collector,newPrice
 30375d24-ccfe-47a2-babd-1bda0a6298fe,Tarnished Citadel,ODY,329,18.64
 303ad78a-b02a-44dc-afe6-7f95781a5062,Kessig Flamebreather,VOW,164,3.74
 303d51ab-b9c4-4647-950f-291daabe7b81,Azor's Gateway // Sanctum of the Sun,RIX,176,2.33
-30420a65-65f2-4331-9a5d-b1771da936b0,"Sting, Bilbo's Sword",HOB,237,21.06
+30420a65-65f2-4331-9a5d-b1771da936b0,"Sting, Bilbo's Sword",HOB,237,17.44
 3044489e-84e0-453e-9248-a200d27ad17c,"Thryx, the Sudden Storm",THB,309,3.07
 304523e7-f332-4c1d-9590-ff9a70daff26,Slickshot Show-Off,OTJ,335,6.28
 304717bd-3c97-47d6-b2fd-e94c70655058,Plains,PTC,shr364,1.99
@@ -4822,7 +4824,7 @@ id,name,set,collector,newPrice
 3239a1e5-a002-4389-b9a7-049b1d60e2ac,Undercity Sewers,MKM,332,20.86
 323e3084-8d84-474f-b208-a4637b1ccb51,Piracy,S99,45,64.44
 323e9430-b87c-4b02-9ade-c4c65343147b,Emissary Green,CLU,5,1.36
-323f7ae8-9247-479e-aead-f46018a3d81d,Dáin's Company,HOB,212,21.93
+323f7ae8-9247-479e-aead-f46018a3d81d,Dáin's Company,HOB,212,18.43
 32401b72-e351-45fa-a16e-33cc818a07e0,Thicket Basilisk,2ED,219,3.61
 324116a4-db54-4de6-84a6-b03459e2aef2,Zulaport Cutthroat,PLST,GNT-36,1.00
 32422f3b-9e21-4740-a344-2b3369cbc713,Shield of the Oversoul,PLST,SHM-242,1.63
@@ -5263,7 +5265,7 @@ id,name,set,collector,newPrice
 367a1fd8-2010-41ae-a746-d2e51c3d6eff,Goblin Game,PLST,PLS-61,1.63
 367a67c7-54db-4336-b55a-3fa27625172a,Ninja of the Deep Hours,BOK,44,1.89
 367ac07a-a30f-4ebf-8877-27cd9ebe2f71,Alms Collector,CMM,10,1.06
-367d5f8b-77ee-47f7-bc71-972d62c280a9,Beorn the Fierce,HOB,119,41.62
+367d5f8b-77ee-47f7-bc71-972d62c280a9,Beorn the Fierce,HOB,119,42.00
 367dbefe-3366-408e-9fcf-7dc00f8cc201,Giant Growth,LEA,197,89.99
 3681d322-bc45-4b2b-9cc8-17929065d097,Undercity Sewers,PMKM,270p,24.94
 3687f487-eec1-4979-8008-5c907adafe9d,The Earth King,TLA,344,2.64
@@ -5361,7 +5363,7 @@ id,name,set,collector,newPrice
 377792bf-2d72-40eb-9e47-1d4a86980fa4,Rancor,MAR,82,1.98
 377e9fb9-0f8d-4908-ad00-bc4eb0efa1b4,Craw Wurm,CED,191,6.51
 3787d5c3-44dc-4d80-83dd-b1eb072baa82,Vampire Nocturnus,PDP13,3,10.82
-3788ada6-34a9-41af-a31c-2d090550e503,The Master of Lake-town,HOB,77,6.51
+3788ada6-34a9-41af-a31c-2d090550e503,The Master of Lake-town,HOB,77,6.63
 378992a4-a683-4b2d-bdf8-f87e48d2e5d9,"Vren, the Relentless",PBLB,239p,1.04
 378c68f7-cf75-4835-8789-f266843851c3,Wasteland,MB2,115,13.82
 378df0f4-5043-461f-8705-9a2c0c3acd43,Dark Confidant,FIN,334,9.84
@@ -5637,7 +5639,7 @@ id,name,set,collector,newPrice
 3a9d1082-a862-45d4-9e5e-392e879fead6,Zuran Orb,ICE,350,6.73
 3a9df9dd-a480-406c-ba28-94895fbfb574,"Galactus, Devourer of Worlds",MSC,8,5.72
 3a9fb2db-228f-4d48-acdf-6330baf356c7,Eerie Ultimatum,IKO,184,2.89
-3aa29fe8-1687-486f-b4df-c04977869ab1,An Unexpected Party // At the Door,HOB,29,7.72
+3aa29fe8-1687-486f-b4df-c04977869ab1,An Unexpected Party // At the Door,HOB,29,7.17
 3aa569e7-0f65-47b7-851f-1377c39f71a9,Harmonize,SLD,7015,24.53
 3aabb93a-7fa2-4fb5-a683-db1d274ac367,Summon: Good King Mog XII,FIC,194,5.24
 3aac5f6f-97c1-4546-94ed-016292e98c9d,Sculpting Steel,MRD,238,1.74
@@ -5891,7 +5893,7 @@ id,name,set,collector,newPrice
 3d572269-3984-48d2-9705-8fe8afb4a2f6,Flawless Maneuver,ONC,68,20.06
 3d5a1bec-9128-4c5e-98c3-317424f892d1,Templar Knight,ACR,10,1.90
 3d5c99e9-7c3e-4149-82a6-3c7d5d302488,Sol Ring,SLD,2807,29.80
-3d5f35ff-4146-4844-9da5-031461cc8c05,The Misty Mountains Cold,HOB,104,4.24
+3d5f35ff-4146-4844-9da5-031461cc8c05,The Misty Mountains Cold,HOB,104,4.12
 3d5fbb30-abfc-4e79-8ce5-bbb04a241c9f,Spymaster's Vault,MH3,230,1.27
 3d61a4d4-f0d5-4bc4-8977-57bbb3d97776,"Derevi, Empyrial Tactician",C13,186,10.18
 3d69a3e0-6a2e-475a-964e-0affed1c017d,Birds of Paradise,RVR,133,15.54
@@ -6142,6 +6144,7 @@ id,name,set,collector,newPrice
 3ff26cbe-eb5d-444b-9de2-51dd85d0a492,Vaultborn Tyrant,PBIG,20p,33.21
 3ff751c7-34c9-498a-bd9f-c6b0c8a194f4,Glacial Fortress,SLD,456,12.52
 3ff78a37-c321-4f02-bd10-e73823b954cf,Grafted Skullcap,7ED,298,3.84
+3ffe34d4-72f4-4562-a948-8909b9321e59,Head of the Hunt,HOB,75,3.30
 400382a4-aea2-4827-b06a-1b0b3745908b,Noble Hierarch,2XM,177,12.47
 40064484-3ed0-4724-ba51-6bf3b66cc0ae,Harmonize,SLD,1596,18.57
 400c6ce6-5595-4901-a133-c5becaac4e08,Nether Shadow,CEI,117,6.96
@@ -6406,6 +6409,7 @@ id,name,set,collector,newPrice
 42936b12-df0c-4332-a91f-2da2acc36dd7,Eladamri's Call,A25,203,10.91
 429a88cc-53db-4c5e-a061-f0f49a38c675,Call of the Herd,ODY,231,23.00
 429e4523-5b11-40dc-83cb-2c8cc26a675f,Sword of War and Peace,SLD,1730,17.34
+42a1986c-9585-4544-b5a7-bee4be5c4506,Gleaming Splendor,HOB,275,149.99
 42a317e2-e190-4442-aa1b-6f7eca8a3dc8,"Merry, Warden of Isengard",LTC,468,3.14
 42ac5ac7-b2f9-4e6f-af41-7e42ac816374,Strix Serenade,MH3,71,1.79
 42acbf52-b137-44f0-a815-2817fe8d2da2,Professional Face-Breaker,SNC,116,6.32
@@ -6689,7 +6693,7 @@ id,name,set,collector,newPrice
 459c4a00-35eb-4cb4-8cee-e7d8a8152c4a,Kaya the Inexorable,PKHM,218p,7.49
 459c4a65-9fe1-4f08-89a8-942c55da4929,Darkwater Catacombs,PIP,492,1.54
 45a02d67-5931-49ae-a28e-57aa6f9c7f83,Phyrexian Negator,UDS,65,14.82
-45ad01f0-cda8-4931-82bb-cb4949e56ae9,Bilbo's Gambit,HOB,5,19.41
+45ad01f0-cda8-4931-82bb-cb4949e56ae9,Bilbo's Gambit,HOB,5,19.04
 45b1e60d-54dd-41cd-b9a2-00890725a3df,Kasimir the Lone Wolf,LEG,237,2.54
 45b3a8f4-ce60-44d2-a494-00d7267a254a,Thought Reflection,C15,110,1.00
 45b924a5-6533-4ca6-bd2e-32debdfb6c08,Fear of Missing Out,DSK,316,3.39
@@ -6895,6 +6899,7 @@ id,name,set,collector,newPrice
 4811072d-fac0-40dd-a5cf-9694d51b12cf,Avatar's Wrath,TLA,12,3.62
 4816d092-e34b-4397-8599-43d8e85a8f39,Narset Transcendent,DTK,225,9.33
 4817067e-e778-4688-9f13-a327e8bc3700,Northern Paladin,SLD,1855,1.06
+481870ee-d1f7-421b-86e1-570ea933bbbc,"Thranduil, Sindarin Liege // Silvan Rally",HOB,166,2.99
 4820d223-4ea1-4850-931c-3d2ab5eb003b,Birthing Ritual,MH3,146,4.20
 4821d865-2a46-4611-ab93-1a9fdde08302,"Rankle, Master of Pranks",OTC,148,3.49
 4822809c-7041-4ebd-9a5b-7702452011fb,Blue Elemental Blast,30A,49,2.47
@@ -6914,7 +6919,7 @@ id,name,set,collector,newPrice
 48484d4d-6000-4e7b-87cf-cabfe4e19b0e,The Deck of Many Things,AFR,392,5.71
 484b2978-2da5-41cf-85d4-128e9dae75c0,Armored Galleon,P02,33,1.05
 484b5580-b179-4dce-8bdf-d714eb4635e5,Marang River Regent // Coil and Catch // Marang River Regent,TDM,378,2.56
-484c7f83-8339-4ae1-8350-68ce1f7d05a3,"Bilbo, Thief in the Night",HOB,33,32.90
+484c7f83-8339-4ae1-8350-68ce1f7d05a3,"Bilbo, Thief in the Night",HOB,33,32.51
 4852abd7-98fa-4f5c-936d-b1355e7b0978,Dreamroot Cascade,TDC,358,1.18
 485ab561-9c2a-4f99-9317-8726bcdae364,Ghostly Flicker,KHC,39,1.69
 485cef94-d7aa-4bb3-b2e6-61d0ccf8007e,Sinkhole,2ED,130,23.75
@@ -7745,6 +7750,7 @@ id,name,set,collector,newPrice
 50f7666d-0d60-4fe5-b144-286d4e47b704,Brotherhood's End,BRO,128,1.39
 50f8e2b6-98c7-4f28-bb39-e1fbe841f1ee,"Ojer Axonil, Deepest Might // Temple of Power",LCI,158,23.36
 50f9cecb-0ff7-4837-a8c5-4af394834e2c,Doomsday Excruciator,DSK,346,1.17
+50fbedc0-bc66-4ffb-87f6-a2df69995091,Mirkwood Pathmaker,HOB,129,1.25
 50fc5b10-6215-48a9-8993-b61681f61186,Swords to Plowshares,2ED,41,67.98
 51003a38-3493-4524-aed8-9681f5a89037,Secret Tunnel,TLA,392,5.92
 51027197-55da-45a3-901b-5ccb204095e9,Nature's Claim,CNS,171,1.14
@@ -8117,7 +8123,7 @@ id,name,set,collector,newPrice
 550313e1-f8aa-4c31-a78c-3da2d8aada6f,Unsummon,ITP,14,5.25
 5503186a-46fe-4956-8ae3-5ab3343f8a93,Gaea's Gift,BRO,182,1.16
 5505040d-2d75-4041-bb82-74a33cad00d7,Ashes of the Abhorrent,PXLN,2p,5.77
-550cd0b6-ca61-4db7-9d20-0b68c48066f9,Dancing from Dark to Dawn,HOB,123,31.79
+550cd0b6-ca61-4db7-9d20-0b68c48066f9,Dancing from Dark to Dawn,HOB,123,29.82
 550ed1d8-916a-4a5b-9672-1b0756620e4a,Chaos Warp,WHO,473,1.26
 5510650a-8399-46a4-8c68-90c892c476d7,Clone,CEI,52,8.60
 5514bc19-5b1b-420b-ab43-fde15a4ee446,Lifeblood Hydra,C14,45,4.02
@@ -8341,7 +8347,7 @@ id,name,set,collector,newPrice
 57900858-940f-4d62-8a2c-378e82f4b79c,The Restoration of Eiganjo // Architect of Restoration,NEO,354,1.47
 57906b54-9fea-4608-87ce-43a16b95df9a,Eldritch Evolution,SLD,1414,16.45
 5790dd89-2be5-4a77-9450-2d3c1422bfc9,The Gitrog Monster,SOI,245,1.52
-5793b8eb-2fc5-454d-8fa2-20346fef167a,Glóin the Mighty // Easy Pickings,HOB,99,1.40
+5793b8eb-2fc5-454d-8fa2-20346fef167a,Glóin the Mighty // Easy Pickings,HOB,99,1.45
 57948c65-4324-42bc-97ae-7cc700eb3817,Heritage Druid,EMA,171,3.38
 57950af0-92d8-467e-9124-2206c84228c8,Adept Watershaper,PECL,3p,1.25
 5796d5e7-78b9-419a-a04a-fa3232bd2906,Temur Battle Rage,CMR,671,1.33
@@ -8355,7 +8361,7 @@ id,name,set,collector,newPrice
 57a93a71-d77c-417f-85d0-cd420f573331,Riverpyre Verge,DFT,260,20.76
 57a966e3-c9ba-4105-a36b-54ca70ba9b77,Enduring Renewal,TSB,7,1.57
 57ab2d8f-6804-46fb-9dec-5fd230333ffd,Frantic Search,NCC,222,1.75
-57ac56f0-b628-41d0-885d-22df47553d58,Lightning Greaves,MB2,225,5.04
+57ac56f0-b628-41d0-885d-22df47553d58,Lightning Greaves,MB2,225,5.01
 57ad1d92-0c91-4a43-a4d3-c2250b9fe23e,Riddlekeeper,CM2,48,12.14
 57ae2417-b859-4254-a3a5-6bff159447ca,Memnarch,DST,129,5.07
 57b50a96-6221-44f0-b54a-76076621047e,Urza's Ruinous Blast,DOM,39,1.70
@@ -8792,7 +8798,7 @@ id,name,set,collector,newPrice
 5be86f1f-c85a-4396-aa16-a39fbf493c96,Hidden Retreat,STH,6,3.23
 5beb6acc-38a5-47f5-ae37-bb396baffa5c,"Elektra, Daughter of the Hand",MSH,366,2.50
 5bebc54f-e51e-4c98-8ecf-790d37a5c637,Forest,DKM,48,1.09
-5bef0790-aa1b-4144-8391-338e59e86115,Sol Ring,MSC,212,1.08
+5bef0790-aa1b-4144-8391-338e59e86115,Sol Ring,MSC,212,1.07
 5bf29f9d-0745-4aab-b7fc-7b04ba2eeaba,Fellwar Stone,DMC,182,1.32
 5bf2db8e-5364-40af-be4f-a62378a52cd5,Time Stretch,SLD,2480,6.51
 5bf85d00-52cc-4594-b4fd-5ec424210524,Day of Judgment,STA,2,4.12
@@ -8833,7 +8839,7 @@ id,name,set,collector,newPrice
 5c5be54d-660e-42ab-b5ea-5e1cf3bad0bc,Tireless Provisioner,MH2,180,2.14
 5c5c01e7-8116-45fc-afc3-d52a31a635cb,Ritual of Subdual,ICE,261,1.48
 5c5e8aa5-91d7-49d2-863a-b9db836436fd,"Ozai, the Phoenix King",TLA,311,27.64
-5c617d99-354a-4586-9a09-1671c0e88754,Thought Vessel,FIC,368,2.86
+5c617d99-354a-4586-9a09-1671c0e88754,Thought Vessel,FIC,368,2.85
 5c62507f-465d-45e9-96bf-06671d19e79e,Mishra's Helix,USG,302,2.73
 5c63877b-cdab-4ce4-a1c0-c088eb62a57a,Electrodominance,RNA,99,1.00
 5c644650-3861-4a78-9e39-a413b073ddac,Kami of Whispered Hopes,MOM,196,2.76
@@ -10201,6 +10207,7 @@ id,name,set,collector,newPrice
 6b3a3944-c3e6-4710-a509-7f970cd692a2,Sword of the Animist,C17,227,7.28
 6b3f3fbb-0188-4eec-90c0-81c801d3a996,Arcane Signet,40K,228,1.97
 6b4097eb-a1e5-4560-80d8-11bb5628dd0d,Drowned Catacomb,DRC,152,1.99
+6b428a9a-3a59-4416-b00b-78e2cb73e2d6,Iron Hills Blacksmith,HOB,216,1.10
 6b429f7a-da0c-4570-87ed-9945a657fe11,Wizard Class,BLC,112,3.79
 6b46f93d-cdc5-4521-940d-e05d5463c30d,Belbe's Portal,PLST,NEM-127,1.09
 6b497f60-0f2c-429d-a87a-6ee65940af83,Read the Bones,SLD,7066,5.40
@@ -10507,7 +10514,7 @@ id,name,set,collector,newPrice
 6eb04dd5-1846-4e30-b349-2b0cc06e0257,Cavalier of Gales,PM20,52p,5.49
 6ebb5601-9ecd-4643-bcc7-e5663a471773,Restoration Angel,INR,299,1.39
 6ebd7679-eb38-4089-8e34-092710fa01eb,Giant Spider,CEI,199,4.04
-6ec6a910-f6d0-4225-8b55-d329dc788c64,Thought Vessel,MSC,222,2.45
+6ec6a910-f6d0-4225-8b55-d329dc788c64,Thought Vessel,MSC,222,2.44
 6eca7ad8-73e3-489d-90b7-aff9d4b0a0d9,Goblin Sharpshooter,SPG,136,24.72
 6ecbc4d8-cb45-4c3d-8e93-8b517ca7da7f,Mise,PAL04,10,8.98
 6ecda818-2729-436c-bde0-c893ca8be7a8,Body of Research,STX,336,3.61
@@ -10724,7 +10731,7 @@ id,name,set,collector,newPrice
 71107317-8623-49b3-8896-d77cdbf50d57,Worldsoul's Rage,PMKM,244p,1.14
 7110cae6-b0ed-4495-9f36-751ce25c9538,"Ashling, Rekindled // Ashling, Rimebound",ECL,290,2.11
 7111e3e9-7175-4231-976c-c73e7d4cb40d,Splinter's Technique,TMT,233,2.26
-7112e460-9160-4535-ad94-93f1f4ac04cf,Dáin Ironfoot,HOB,91,5.09
+7112e460-9160-4535-ad94-93f1f4ac04cf,Dáin Ironfoot,HOB,91,4.00
 711843d5-307f-4266-b2fe-dd19d93aefbd,Windfall,C15,111,4.79
 711c5c5b-ffab-4a78-9f3a-0b80860b8c53,Selesnya Signet,MM3,226,1.49
 711d4d54-5520-4de8-9b93-79902ed8e562,Demonic Tutor,LEA,104,678.00
@@ -11179,7 +11186,7 @@ id,name,set,collector,newPrice
 7585b181-bf9a-4cc2-a874-b8404b06bebd,Miscast,SLD,2317,7.14
 75892bf0-6eb3-4a38-83c4-f0f8854c55f6,Metallic Mimic,MSC,441,1.35
 7589fee1-b17d-4958-8b12-4f9c551c2e52,Defense of the Heart,WOT,80,33.28
-758b4398-4522-49c8-94de-b0d647532544,"Orcrist, Goblin-cleaver",HOB,236,95.00
+758b4398-4522-49c8-94de-b0d647532544,"Orcrist, Goblin-cleaver",HOB,236,84.99
 758d93d5-3f66-4395-a928-000485396c87,Willowrush Verge,DFT,270,6.52
 75918859-c93f-41b4-9ad0-a4a96c389f0d,Elvish Mystic,CMM,284,1.45
 7591ff83-65e9-4e42-831b-3317b575c6b6,Taurean Mauler,CM2,122,1.07
@@ -11379,7 +11386,7 @@ id,name,set,collector,newPrice
 778d10e6-251b-4ef3-b9b8-bc23a0d74aed,Mana Vault,2ED,260,176.83
 7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca,Command Beacon,PCMR,349p,9.22
 77983bbf-6761-4126-82b4-bdcdd6b8e1dc,Quest for Ula's Temple,WWK,35,4.63
-779abd27-985f-4bb9-9330-38d49bf52903,Lightning Greaves,FIC,349,4.48
+779abd27-985f-4bb9-9330-38d49bf52903,Lightning Greaves,FIC,349,4.50
 779cdad3-9d90-4de1-8071-f772fb85142b,Cerebral Vortex,GPT,107,1.13
 779dadab-a4be-481f-a50f-4a80a3bf9ca9,Triskaidekaphile,DBL,81,4.86
 779e3944-4342-4151-9963-87e8d41fd2ff,Ghoulcaller Gisa,CC2,2,4.54
@@ -11486,7 +11493,7 @@ id,name,set,collector,newPrice
 78ca16f8-336a-444b-9f78-e97a3f20a3bc,Shining Shoal,BOK,21,1.89
 78ccdaf1-c491-4f87-94f8-d66e7e399681,Loxodon Warhammer,CMR,465,1.98
 78d22400-39f6-444d-b508-783a7df7e945,Eye of Ramos,MMQ,294,3.03
-78d8f53e-537d-4eaa-99e3-cac57fa53d22,The Great Goblin,HOB,158,12.70
+78d8f53e-537d-4eaa-99e3-cac57fa53d22,The Great Goblin,HOB,158,11.44
 78db70ff-f68c-474a-9785-12a71be4f699,Elvish Harbinger,EVG,4,6.73
 78db8c96-e6b8-4d4a-9935-29f12385a151,Railway Brawler,OTJ,344,9.09
 78dc4043-5eba-4917-bb95-3b624fa26c3a,Beast Within,PLST,NPH-103,1.70
@@ -11622,7 +11629,7 @@ id,name,set,collector,newPrice
 7a380bca-e64d-4582-9f55-02f91a1f3c2f,Command Tower,SLD,710,3.65
 7a3900d1-52f3-4a5c-9822-12964de9baef,Fountain Watch,PLST,MMQ-19,2.03
 7a3d703c-4964-4a31-bb77-5fa57e3e938c,The Actualizer,UNK,RZ03h,12.49
-7a409e76-1387-44d4-a85d-27ae926f9786,Lórien Revealed,LTR,511,14.31
+7a409e76-1387-44d4-a85d-27ae926f9786,Lórien Revealed,LTR,511,14.11
 7a40c996-7b64-4d56-a21f-b68ac64c1e99,"Minotaur, Roxxon CEO",MSC,539,2.41
 7a414f0e-b157-4570-8213-1c58a96bf7a5,Glory,JUD,11,8.12
 7a450430-9dc9-4934-883e-3580c60a3772,Dragonborn Champion,SLD,2498,7.75
@@ -11701,7 +11708,7 @@ id,name,set,collector,newPrice
 7b0a2799-197e-4d61-ab23-67d974458a05,Dragonspeaker Shaman,AFC,330,2.18
 7b0af992-80e0-4ac6-a828-5eaac47eaff6,Forest,ONS,349,1.50
 7b0b0520-f792-4201-bd4c-22b7d7824b52,Chromatic Orrery,LCC,107,57.54
-7b0ccfd4-f118-4497-9c5a-54cf12000e16,Sol Ring,TDC,106,1.62
+7b0ccfd4-f118-4497-9c5a-54cf12000e16,Sol Ring,TDC,106,1.59
 7b0d4d01-9044-4b68-8b55-1b27ff0ffa75,Ponder,PLST,C21-125,3.79
 7b0d67b1-e7ae-4ec9-b135-8ff10b46e92b,Abrade,SLD,2179,8.01
 7b112a10-ac40-4353-bbdd-e5efd4546330,Sindbad,ARN,21,32.22
@@ -11925,7 +11932,7 @@ id,name,set,collector,newPrice
 7d698bdd-b485-409d-b03e-c7c7d3fe9a92,Sol Ring,SLD,1696,16.09
 7d6ae82b-5764-4a8a-a60e-a781837414dd,Bountiful Promenade,ZNE,20,21.88
 7d6cb368-43f7-4d06-9cd5-492df5766567,Balancing Act,ODY,10,1.65
-7d6ece3d-8e7a-41ad-974f-3c9748de4825,Gigantic Big Bear,HOB,126,3.30
+7d6ece3d-8e7a-41ad-974f-3c9748de4825,Gigantic Big Bear,HOB,126,3.25
 7d711cb2-4f34-4792-90d7-2be5d329a347,"Selvala, Heart of the Wilds",CMM,320,6.02
 7d751566-7246-4580-9a12-0fd1d6c8b5e8,Swords to Plowshares,CST,54,5.01
 7d764af5-dd94-4874-a69b-c2a657a7d07b,Realm-Cloaked Giant // Cast Off,ELD,277,1.79
@@ -12187,7 +12194,7 @@ id,name,set,collector,newPrice
 803ef2b5-cf79-4101-adbd-6de02dd787ef,Simulacrum,30A,125,4.77
 803fd65f-4ca6-4fe4-abc2-72aa32ebb3a5,Sol Ring,3ED,274,27.76
 8040d3ba-7601-4b99-a98a-2411ec1b717d,Tom Bombadil,HOC,38,49.99
-804589b7-3ef9-473d-97cc-c61a2d41f70d,"Beorn, Reluctant Host // Till and Tend",HOB,118,1.80
+804589b7-3ef9-473d-97cc-c61a2d41f70d,"Beorn, Reluctant Host // Till and Tend",HOB,118,1.71
 804b3378-b330-45d2-9e2c-602ec080f285,Endless Evil,CLB,665,3.91
 804e43a0-faf6-4cd7-b5e8-34c767f8fa1c,Namor the Sub-Mariner,MSH,362,14.40
 8050afb7-3c16-4456-aa34-4cc999fac7f5,"Saryth, the Viper's Fang",MKC,185,4.36
@@ -12838,7 +12845,7 @@ id,name,set,collector,newPrice
 87089d28-46a7-4247-a784-c34b9f822172,Bloodghast,SLD,6,12.81
 870eb49c-f62d-4986-b492-601feb68a307,Juggernaut,LEB,256,150.00
 870ebc0b-b748-4a21-b939-a48811451bba,Harvester of Souls,JMP,243,2.15
-870ec754-a76c-40ea-9b81-81b3dca1f62c,Sol Ring,SOC,128,1.68
+870ec754-a76c-40ea-9b81-81b3dca1f62c,Sol Ring,SOC,128,1.70
 870fb793-3107-4cb2-ba78-34fbf5c9da2f,Foil,PCY,34,14.29
 8710f97d-28c7-4809-a4cd-81d08a7e3909,Expedition Map,M3C,292,2.30
 87126165-2cba-4a24-a3fc-3b5487e89d13,Throat Slitter,PCA,37,3.98
@@ -12931,7 +12938,7 @@ id,name,set,collector,newPrice
 8804973b-b733-417e-9bee-828efbcb4453,Headless Rider,DBL,385,8.12
 8807635d-b5f2-4f08-af5e-5792867eb60b,Spider-Punk,SPM,207,3.51
 8809830f-d8e1-4603-9652-0ad8b00234e9,Fabled Passage,BLB,252,1.85
-880adfc8-69cf-4062-a804-e65b6cb6056d,Through the Forest Gate,HOB,137,20.57
+880adfc8-69cf-4062-a804-e65b6cb6056d,Through the Forest Gate,HOB,137,19.86
 880ffa23-ed71-4f39-aa66-0953a1f20fe9,Ancient Tomb,ZNE,21,142.25
 881607c8-bfe7-4903-861f-b51a5a332c17,"Arixmethes, Slumbering Isle",2XM,189,2.10
 8818250f-a844-4430-853e-0a034aa97485,"Sarkhan, Fireblood",J25,593,1.21
@@ -13003,7 +13010,7 @@ id,name,set,collector,newPrice
 88d9b1ae-755d-49e4-b012-db95019491c6,Steel Golem,10E,344,1.78
 88e07d94-93fe-4827-b4e0-f73dc1962b9a,Tainted Adversary,DBL,124,2.32
 88ef76aa-2007-400c-9dd4-54d6b449cbd3,All Will Be One,PONE,118p,34.30
-88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf,Belladonna Took,HOB,4,12.59
+88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf,Belladonna Took,HOB,4,10.94
 88f58cf9-a4ca-4a91-a800-9658b2689581,Mountain,PELP,3,11.32
 88f5cfdd-9c48-405d-bfd7-1e20558bbd5a,Magus of the Moon,SLD,1761,6.35
 88f68d45-a6cd-437d-a4b1-2787891f0128,The Immortal Sun,CMM,393,12.97
@@ -13048,6 +13055,7 @@ id,name,set,collector,newPrice
 897a134e-7e61-4fe1-bbae-23ef1fe5c0cf,Colossus Hammer,AFC,202,1.90
 8980e292-1384-4662-aa72-bc4f6ca30d51,Opposition,7ED,92,1.62
 8987644d-5a31-4a4e-9a8a-3d6260ed0fd6,Who // What // When // Where // Why,UNH,120,2.82
+898c14a2-d897-4341-83ed-eee666df9648,Key to the Side-Door,HOB,175,2.99
 898c66d5-d8e6-4a58-ba41-4650ba0e7262,Helm of the Host,BLC,276,8.61
 898cd314-9060-4f1c-a821-1d61a292a12b,Regrowth,LEB,215,120.49
 899088b3-4cdf-47c0-8c52-3c9f55c086c4,Delusions of Mediocrity,ULG,30,2.34
@@ -13130,7 +13138,7 @@ id,name,set,collector,newPrice
 8a4d8527-af29-408d-a3a3-6781db0cf439,Rancor,A25,186,1.32
 8a4ee66c-1c3f-4ece-8c0a-4f0c259c5142,Sulfur Falls,DMR,400,1.27
 8a505f6f-933c-4644-838f-897f5e4133b0,Multiversal Incursion,MSH,68,1.42
-8a50858a-33b5-4c45-9c31-5956ae5a33a6,Little Bear,HOB,128,1.98
+8a50858a-33b5-4c45-9c31-5956ae5a33a6,Little Bear,HOB,128,1.61
 8a50b3bd-81b0-408d-ab73-9eadd2fb1eae,Howling Mine,5ED,377,7.49
 8a530d1e-2aff-4684-8f21-743a73f285ff,Protean Hydra,M10,200,4.65
 8a5a1a13-dfc8-49b7-9b17-3f0c5ca1b8be,Piety,ARN,8†,10.22
@@ -13212,7 +13220,7 @@ id,name,set,collector,newPrice
 8b5341ab-85a6-44b2-b738-1110e699c02b,Darksteel Colossus // Darksteel Colossus,SLD,1081,15.42
 8b56c37c-21fa-4a93-b7b4-215b352e629b,Wash Away,DBL,354,2.73
 8b5713b7-f2a6-41c5-a485-058b7393570b,Talisman of Dominance,SLD,1053,43.30
-8b59b12c-fde5-4f19-a357-e09f06f490cc,Lightning Greaves,TDC,102,4.66
+8b59b12c-fde5-4f19-a357-e09f06f490cc,Lightning Greaves,TDC,102,4.67
 8b5a916f-a6f2-4e89-b38f-7e5bc0c2e032,Esper Sentinel,H2R,2,60.74
 8b6061bb-afaa-4c36-9594-e6c9c70c1e3d,Temporal Manipulation,PLST,UMA-77,12.75
 8b64717e-0e7b-4b4c-ba82-48498ee87aad,Arcbound Overseer,DST,99,1.91
@@ -13276,7 +13284,7 @@ id,name,set,collector,newPrice
 8bf5df5b-164d-4ec2-a5e6-bbaea152e271,Drown in the Loch,ELD,188,1.36
 8bf88010-799d-4217-8e79-308bec7ad2ff,"Rev, Tithe Extractor",J25,45,20.58
 8bf966ff-0fd0-404d-be91-5b0c21035d73,Synapse Sliver,LGN,53,6.08
-8bff0aa6-16d9-4c83-b598-ef00a3b33d2c,"Bilbo, Luckwearer // Burglar's Plot",HOB,32,2.98
+8bff0aa6-16d9-4c83-b598-ef00a3b33d2c,"Bilbo, Luckwearer // Burglar's Plot",HOB,32,2.71
 8c05568e-fa50-46e9-aec4-1ba5e814029e,Brawn,MOC,292,1.03
 8c05a4d9-37f9-42ac-8dca-b31480904b51,Elvish Mariner,LTR,384,3.46
 8c0acb91-edfc-43a5-af77-6614327fce43,Hanweir Battlements,INR,279,2.19
@@ -13519,7 +13527,7 @@ id,name,set,collector,newPrice
 8ebc97bd-508f-4af5-a308-46cb1f256534,Dovescape,SLD,95,6.45
 8ec0033b-d71b-4389-88fe-45c247354546,Innkeeper's Talent,SLP,45,28.80
 8ec4694a-ac36-497c-a3f4-09d3f69939fe,"Kiki-Jiki, Mirror Breaker",SLD,1659,19.28
-8ec824ef-fd09-4f7e-a350-ac80005c261f,Lightning Greaves,PIP,233,5.11
+8ec824ef-fd09-4f7e-a350-ac80005c261f,Lightning Greaves,PIP,233,5.22
 8ec9571f-17c0-4f16-adb5-8805d4b72591,"Alela, Cunning Conqueror",WOC,34,35.52
 8ecea08d-7d65-4d61-a34d-2f8976af5f5e,Enlightened Tutor,DMR,263,32.75
 8ed645ea-e4cb-4bd1-8aaf-5f8411bf225c,Dragonstorm,TSB,60,3.21
@@ -13576,7 +13584,7 @@ id,name,set,collector,newPrice
 8f5f8d3a-95e7-4dd9-8510-43517eb02693,Myojin of Seeing Winds,CHK,75,6.31
 8f6448b1-ffc7-43f0-b713-881016ce9485,Chromatic Lantern,OTC,255,1.34
 8f649cb5-e19c-453f-b062-4fd452d92257,Tundra Wolves,LEG,40,1.19
-8f69a74a-778c-4a1d-99ad-6ca04771fb23,Sol Ring,SLD,2467,9.17
+8f69a74a-778c-4a1d-99ad-6ca04771fb23,Sol Ring,SLD,2467,9.00
 8f6a631b-e3e7-4647-825e-c0b6aeff76df,Snow-Covered Plains,MB2,116,2.34
 8f6b4652-a1d4-418f-a89b-6a977a920a9e,Mishra's War Machine,ATQ,57,8.79
 8f6b5529-b70f-4d61-b98f-e7936683d3ad,Puresteel Paladin,PIP,456,2.83
@@ -13602,7 +13610,7 @@ id,name,set,collector,newPrice
 8f932690-9a38-4a3f-8805-a192208152a3,Plague Myr,MBS,125,1.64
 8f943d5d-e8a1-4fe1-aad5-80c7ccf15435,Guildless Commons,CMM,1003,3.13
 8f94da51-b4d9-4d79-9113-39f8f4a1be34,Hidden Gibbons,ULG,104,10.69
-8f98234e-7376-4953-8985-2d184b1b3fda,Fellwar Stone,MKC,228,1.35
+8f98234e-7376-4953-8985-2d184b1b3fda,Fellwar Stone,MKC,228,1.36
 8f98d41c-f7c7-4bbe-a691-d024d1a4b48f,Crypt Ghast,SLD,169,19.17
 8f99894d-5ece-44f1-acce-474494ae2084,Frankenstein's Monster,DRK,45,8.16
 8f99a520-b8a9-40b0-9854-48aac297c5ee,Sandals of Abdallah,ARN,69,29.39
@@ -13623,7 +13631,7 @@ id,name,set,collector,newPrice
 8fb141d9-addd-47ad-bfc1-b5b376d4c950,Wave Goodbye,TMC,46,1.80
 8fb31436-4b39-421e-a7e0-cdf172823665,Sneak Attack,WOT,79,12.87
 8fb40a56-80bd-4566-a005-2b385865b1dd,"The Master, Multiplied",WHO,545,6.43
-8fb860f9-3729-436e-adfb-c98c2a389d5d,Sol Ring,FIC,356,1.39
+8fb860f9-3729-436e-adfb-c98c2a389d5d,Sol Ring,FIC,356,1.41
 8fbaaf68-c97f-443b-9be9-e6567925eddc,Blade of Selves,CLB,596,3.21
 8fbad757-4081-42f7-a460-68ac03e77510,"Ral Zarek, Guest Lecturer",SOS,97,1.39
 8fbba7b1-307e-41d4-aa13-9c67ca729c26,Wasteland,WC99,mlp330,8.54
@@ -13844,7 +13852,7 @@ id,name,set,collector,newPrice
 91f4dfc0-7478-4e47-89b4-685b72197ef0,Resourceful Defense,NCC,19,2.03
 91f67a64-b97d-473a-be9d-c8044ff86605,Haunted Ridge,MID,282,8.47
 91fc8eca-7549-45b5-b3db-89a58d7d2a4a,Compost,7ED,235,1.87
-91fdb56b-54d5-4272-8319-505ff987fe9b,Sol Ring,MSC,211,1.42
+91fdb56b-54d5-4272-8319-505ff987fe9b,Sol Ring,MSC,211,1.43
 9203fde4-dbc1-449f-9618-4656f0e25e3c,Memnarch,ARC,112,6.34
 92078408-e0e4-443e-b0fd-aac0ac651f46,Fluctuator,USG,295,5.97
 920c8d13-45e5-4ead-8617-0b3939bb9123,White Sun's Twilight,ONE,377,2.83
@@ -13912,6 +13920,7 @@ id,name,set,collector,newPrice
 92c14d4d-abaa-411a-aaa1-0b79fccee8c1,Steal Artifact,LEB,82,32.01
 92c48b73-5421-4eaf-99a3-48bb7e9adfe8,Vibranium Strike Gauntlets,MSC,459,2.29
 92c5f0e3-345a-40a8-9cda-565a62156692,Leyline of Resonance,DSK,143,1.10
+92c6f09d-b525-4e8c-a87c-a74df9dc3b1e,Dwarven Mattock,HOB,172,2.99
 92ca29b4-4b84-4aeb-8724-fc2f058b02c9,Boros Signet,RVR,251,1.31
 92d53533-b10e-430a-a6f6-58ecb508be77,Wrap in Vigor,CNS,183,1.20
 92d59c06-41f7-4009-9157-70ba90cc978b,Comeuppance,C14,4,5.79
@@ -14161,6 +14170,7 @@ id,name,set,collector,newPrice
 95890c4e-c661-4aae-8463-d1377d9cbcaf,"Mirri, Weatherlight Duelist",SPG,15,8.80
 958b247d-83d3-4dd6-9a1a-654ba3adf078,Misleading Signpost,WOC,47,14.80
 958cdaca-60f7-4c26-ae28-bdc41bb59a84,Kami of the Crescent Moon,CN2,113,7.32
+958f0de2-d209-4e97-9ad4-dedf5da304b8,Fateful Discovery,HOB,220,37.39
 9591f2ab-e09c-48d5-9c87-d27368e60750,Armageddon,P02,12,42.21
 9592c31e-179e-43d3-b2b8-b83c0dbea922,Fog,SUM,195,1.00
 95932b1b-f59b-4a42-a08f-3eeb783fdb8b,Helm of the Host,MSC,437,8.74
@@ -14325,7 +14335,7 @@ id,name,set,collector,newPrice
 975dcfab-0281-4fee-92aa-021ea6c524c7,Swift Reconfiguration,NEC,10,3.99
 975f9ea8-af2c-456f-acd0-ffa9ea0d98c1,Krark-Clan Shaman,MRD,98,7.82
 97622209-9357-4347-8961-f77f8d2389d8,Relentless Assault,CMR,416,4.54
-9763bd56-fa4b-4907-ad15-c3f040c5fc0a,Inside Information,HOB,76,24.72
+9763bd56-fa4b-4907-ad15-c3f040c5fc0a,Inside Information,HOB,76,22.26
 9763f489-6b2b-4a19-84a4-1fc602124890,Moonlit Meditation,EOE,327,1.21
 97649f03-262c-485d-8cb4-75cc4f65ec53,Secure the Wastes,PIP,171,2.65
 976f36ce-57b0-4364-9009-b3bbf5763050,Counterspell,MB2,158,3.50
@@ -14845,7 +14855,7 @@ id,name,set,collector,newPrice
 9cb7d00a-0b8d-4d0c-9592-058f1e0ce087,Tolaria West,PLST,TSR-286,1.53
 9cbaa22a-d679-48ef-805a-d09d6f1091aa,Forest,SLD,1656,11.42
 9cbaf50b-5491-474b-8501-8814e2629fe4,Paradise Mantle,SLD,1236,37.82
-9cbd346e-098a-4cf6-a72f-468376fd2e8f,Settle the Wreckage,XLN,34,2.52
+9cbd346e-098a-4cf6-a72f-468376fd2e8f,Settle the Wreckage,XLN,34,2.47
 9cbdda50-8a27-4094-849d-b6f66def82ce,Sakura-Tribe Scout,SOK,144,2.53
 9cc070d3-4b83-4684-9caf-063e5c473a77,Wastes,OGW,183a,1.73
 9cc32bfc-7d87-46d9-a424-eac64eefd7ea,War Elemental,MRD,112,4.45
@@ -15112,7 +15122,7 @@ id,name,set,collector,newPrice
 9f7413f4-0ce3-4fd4-b011-4e30ad88f510,Gerrard,PVAN,102,3.26
 9f74d8ad-9db9-4162-9d20-9779233a634e,Sacred Foundry,EOE,282,10.93
 9f764be3-dd3f-44b1-a4a6-807d1387590b,"Sorin, Imperious Bloodlord",M20,115,5.13
-9f7675e6-bde2-4490-9f7a-809f3f49d6fd,Rogue's Passage,PW24,10,1.77
+9f7675e6-bde2-4490-9f7a-809f3f49d6fd,Rogue's Passage,PW24,10,1.74
 9f7983bf-2a3b-4428-8c01-35285f589da8,Sudden Substitution,C19,11,5.13
 9f800b59-640c-447a-b0d1-3904bc91b61f,Idol of Oblivion,NCC,368,2.07
 9f80efa6-769f-4205-b69e-9cf0e78b7bcd,"Jenova, Ancient Calamity",FIN,346,6.05
@@ -15259,7 +15269,7 @@ a10c1407-d397-4caa-b7b7-e7d91ffd4ee9,Mirrormade,ELD,55,2.49
 a10d6f57-5758-4da6-8bb0-29e7b375f8c5,Mana Flare,CEI,163,14.28
 a10deb58-9fb5-4b19-a1ca-6bb540142d9a,"Falco Spara, Pactweaver",PSNC,186p,3.85
 a112edf3-c976-426c-a407-e86255586e41,Soltari Champion,STH,18,2.51
-a1142fa1-b861-4876-aa48-402af35aaa63,Fateful Discovery,HOB,40,36.57
+a1142fa1-b861-4876-aa48-402af35aaa63,Fateful Discovery,HOB,40,34.07
 a1176dcf-40ee-4342-aa74-791b8352e99a,Scrawling Crawler,FDN,132,6.71
 a118b473-0898-4c3c-8d5c-ffa95a0c2987,Swiftfoot Boots,PLST,BLC-286,2.06
 a119edc2-9e0f-43d1-a13d-25827f86e3e3,Sylvan Anthem,MH2,176,1.63
@@ -15660,7 +15670,7 @@ a564c2e8-f49f-4ed7-850f-7c8bc92e4926,Phyrexian Metamorph,EOC,75,2.42
 a566ab2d-6ec8-4833-8ad6-210378b1a20e,Cool but Rude,TMT,89,8.89
 a569e7a3-d20b-47b1-ba7f-70513718c4cf,Conjurer's Mantle,MOC,99,1.90
 a569ff3d-e972-49b5-9f92-89983262a3d1,Reverse Ninja,UNK,CB02,21.50
-a56a88ba-fcfa-4b56-bdae-a080b297b871,The Arkenstone // Seek the Heart,HOB,170,33.03
+a56a88ba-fcfa-4b56-bdae-a080b297b871,The Arkenstone // Seek the Heart,HOB,170,32.57
 a56ae7d9-b5f7-40d4-843b-089fa2f8788c,Phantasmal Terrain,CED,69,1.33
 a56d9468-9d33-48e3-b41c-942653669b1a,Chain of Smog,PLST,ONS-132,7.86
 a577ba08-0aa8-45be-aa83-d5078770127c,Edgar Markov,INR,234,43.05
@@ -15737,7 +15747,7 @@ a60e591e-5673-4504-9b1e-8448fae664ea,Mossborn Hydra,FDN,471,13.59
 a60e8f23-90b2-4bc6-bd54-a95055556389,The Legend of Yangchen // Avatar Yangchen,TLA,27,3.99
 a60fd036-8df3-49b8-8413-acc6af12106d,"Éomer, King of Rohan",LTC,455,4.54
 a6104a32-95ba-4003-bd02-12c567631990,Talisman of Creativity,WHO,248,3.76
-a6129286-7437-4ba4-be55-586a22cd67ca,Riddles in the Dark,HOB,53,7.90
+a6129286-7437-4ba4-be55-586a22cd67ca,Riddles in the Dark,HOB,53,5.60
 a61990de-0daf-4340-8e6b-c49852d46980,Boggart Mob,LRW,104,4.09
 a61a3ba1-af6c-4ddc-aa82-34bfc30867d0,Metropolis Reformer,MAT,4,2.13
 a61a6ff1-146c-4e2c-83d4-6d9fd3830a18,"Carmen, Cruel Skymarcher",LCC,26,5.08
@@ -15819,7 +15829,7 @@ a72a437d-2b69-4dad-a537-aab24168dd3c,Karn's Bastion,NCC,410,3.54
 a732bc65-33fe-4445-ba3f-082578ee837a,17-Year Cicadas,UNK,UW05c,67.49
 a7360ffb-5a45-490f-9adf-d540a404e64d,Giggling Skitterspike,DSC,66,13.89
 a7382e4b-43dc-4b35-8a9e-ab886ea0a981,Beast,TALA,10,11.08
-a739dd30-1fce-49db-99fb-15e346f4f2db,Sol Ring,MSC,214,1.22
+a739dd30-1fce-49db-99fb-15e346f4f2db,Sol Ring,MSC,214,1.23
 a73c630c-c98d-4f8a-9e6a-2576d5fec4ee,Cryptic Trilobite,C20,21,1.65
 a740d70c-b877-44cf-beb4-774ec66236c5,Skullclamp,MSC,451,6.23
 a742e23c-1991-4dce-b670-dea92a1cf4ec,Fabricate,MRD,35,6.48
@@ -16097,7 +16107,7 @@ aa0a1ba3-07fd-4fbc-bb57-8dd3788d3716,Path of the Pyromancer,MOC,121,2.87
 aa0e9a0c-7d89-4dde-88c3-130fb4d41fb7,Pyroclasm,WC01,ar209sb,2.44
 aa112736-7596-448a-be2f-0798acb3b2ee,Path to Exile,OTP,6,1.78
 aa1243b2-502c-4aee-b61e-f23656bf29f2,Nemesis of Reason,PLST,ARB-28,3.22
-aa15d3b3-c709-4d9b-a9ec-c8d68f805ebf,Fellwar Stone,CMM,657,3.75
+aa15d3b3-c709-4d9b-a9ec-c8d68f805ebf,Fellwar Stone,CMM,657,3.72
 aa184596-3a3c-43fe-8e20-b09ab100cd00,Vineglimmer Snarl,STX,365,1.10
 aa192912-c9ee-403f-8a46-a338c9edb4b9,Absolute Virtue,FIN,212,2.50
 aa1c4ada-a218-4701-a293-ae6cbbe5c4d8,"Kediss, Emberclaw Familiar",SLD,2364,9.67
@@ -17242,10 +17252,11 @@ b5f95c69-2b41-4d67-ae7c-a4c1df9d384d,Crop Rotation,PLST,DDR-7,4.54
 b5f9954b-6bfc-43fc-849f-bb6b0ac0c4f3,Eye of Ojer Taq // Apex Observatory,LCC,35,1.33
 b5fb67ed-f4ea-47d6-876a-2ad6a3fc9a18,Homeward Path,CMD,277,17.15
 b5fcc6b0-778f-4dcd-874e-04549493a6ad,Court of Ambition,CMR,645,9.55
+b5fe776d-00c2-4d5d-9493-77dd754aa728,"Bilbo, Luckwearer // Burglar's Plot",HOB,218,1.10
 b6011e4b-a8a7-4cad-a276-c1022b45edc3,Cresting Mosasaurus,REX,2,5.55
 b6078774-f681-46dd-a68e-1cefa8261d16,Lair of the Ashen Idol,OPCA,46,2.60
 b615facd-6276-4896-bdf6-e5c006f55c5f,"Adeline, Resplendent Cathar",PMID,1p,3.27
-b61634ae-05be-4b56-8ebb-9d4ade902e42,Lightning Greaves,MSC,202,4.15
+b61634ae-05be-4b56-8ebb-9d4ade902e42,Lightning Greaves,MSC,202,4.10
 b6175fea-1de4-4d82-b86c-3c3140a3c286,Mystical Dispute,PR23,1,3.57
 b61aae1a-9fdc-4e19-98ba-8a11839ca51c,Forsaken City,PLST,PLS-139,6.16
 b61af26f-bab1-412d-8849-0d7c3c304950,Nut Collector,DMR,440,7.12
@@ -17296,7 +17307,7 @@ b6821581-0b21-4dc2-8ee9-a4c8d4d0c092,Bounty of the Hunt,WC97,sg85,1.00
 b6876d9e-0908-43ac-8542-09c7aa02b5ba,Tarmogoyf,FUT,153,19.90
 b688b165-5783-47e3-94d6-56d4690171bd,Door to Nothingness,SLD,1678,12.13
 b689a206-aec3-4a31-95cf-3d4b840db04c,Securitron Squadron,PIP,23,2.16
-b68a8c69-0e59-4491-9e4d-4c50600a035e,Sol Ring,SLD,2672,7.53
+b68a8c69-0e59-4491-9e4d-4c50600a035e,Sol Ring,SLD,2672,7.47
 b695048a-9809-417b-999f-0818006d8344,Deserted Beach,PMID,260p,6.37
 b69cfcb0-db68-4494-a3e1-7c2ca279fcf5,Wildfire,P02,120,7.97
 b69d2f7b-4705-4d61-964b-6ce892ed0abc,"Thassa, Deep-Dwelling",PTHB,71p,33.62
@@ -17331,7 +17342,7 @@ b6d1e901-cef9-45ca-a946-a4a9cba6702d,Archfiend of Despair,CMM,137,23.42
 b6d5bf06-f735-4e9f-9460-e6cdf501662f,Praetor's Counsel,CMA,134,2.17
 b6d7adfe-0356-4d5a-b13b-5dce5f163b9e,Vampire Socialite,DBL,249,4.32
 b6d7cd2d-9c5c-4f7e-a96b-97a7b00fe579,Hydroblast,WC98,rb72sb,3.71
-b6d8d14d-4713-40ea-9509-81ce68b2184d,Thorin Oakenshield,HOB,202,4.85
+b6d8d14d-4713-40ea-9509-81ce68b2184d,Thorin Oakenshield,HOB,202,4.21
 b6de14ae-0132-4261-af00-630bf15918cd,Barkchannel Pathway // Tidechannel Pathway,KHM,251,5.12
 b6e3d6e6-ac17-4d73-acac-089442de4af6,Dovescape,DIS,143,4.60
 b6e62328-fe29-4097-b45c-66cd62f93f86,"Ryusei, the Falling Star",IMA,144,1.72
@@ -17409,7 +17420,7 @@ b7995204-c277-4137-ba5a-55875aee5fe1,Second Harvest,LTC,530,13.55
 b79b931d-93b6-46fa-8dff-87abe6dd7170,Swiftfoot Boots,C15,271,3.25
 b79cb394-eb91-4b3b-91d4-c6a0f723feb1,Sol Ring,C14,270,2.19
 b79deb44-e5e5-4e5e-ae5f-be18a1ae014e,Orcish Artillery,CEI,166,1.49
-b7a24bfc-bae0-4b21-9054-68723a1adeae,Thought Vessel,BLC,289,2.86
+b7a24bfc-bae0-4b21-9054-68723a1adeae,Thought Vessel,BLC,289,2.87
 b7a26d0b-cf19-4c3e-bc81-6ffdc21757fa,Bonders' Enclave,IKO,363,1.98
 b7a4ceea-cecf-4310-b1de-40d767f8113b,Gilded Lotus,MSC,434,3.35
 b7a56356-91bf-42f5-ab21-af2c48e78fc3,Persist,ECC,83,1.18
@@ -17674,6 +17685,7 @@ ba38fb01-ea16-4a2d-964a-41f7b4d74024,Time Distortion,OPCA,8,4.20
 ba3ff39b-b591-4434-8d41-4826d0809ca7,The Arkenstone // Seek the Heart,HOB,234,158.33
 ba4106de-20c7-48cf-8a36-8c6913b46c89,Sliver Hivelord,M15,211,19.41
 ba42881b-9275-4b54-a17f-dec87d21a270,Once More with Feeling,UGL,11,1.07
+ba42b0f3-3f2f-4fbe-b56d-c2cb477f1182,Last Light of Durin's Day,HOB,228,3.30
 ba43e6c0-375c-425d-bcf8-cc64b6cfdab1,Cunning Wish,WC02,cr37,2.38
 ba461127-2220-4274-81cb-423a1700c9eb,"Liliana, Dreadhorde General",FDN,359,15.83
 ba47805c-c8f2-4bcd-bf14-b3fa950039b6,Save Life,UNH,19,1.71
@@ -17815,7 +17827,7 @@ bbbfadff-43a1-4c46-9426-d3417715baae,Mystic Forge,BRR,99,8.59
 bbc27860-05c2-4b13-9a6e-9ae986d558e3,Glasses of Urza,CED,246,8.19
 bbc3152e-7b3b-4ac6-8b33-abfebde216aa,Fog,EMA,167,2.85
 bbc46960-fdf1-4227-93b8-3fd778be896b,Solitude,H2R,3,40.10
-bbc634af-63d2-444a-8123-85f16fe3e364,Chief Warg's Company,HOB,151,10.38
+bbc634af-63d2-444a-8123-85f16fe3e364,Chief Warg's Company,HOB,151,8.61
 bbcacb8e-1aff-4807-b70c-a17d6703d279,Righteous War,VIS,134,3.24
 bbcbad10-475e-41cf-b3fb-68c1ca6c2caa,Brazen Cannonade,J22,31,3.48
 bbd454a8-b8d0-4755-bd60-321d51589904,"Yuna, Grand Summoner",FIC,192,4.97
@@ -17835,7 +17847,7 @@ bbec4aa5-3319-43dc-8347-5633edbd7018,Goblin Warrens,FEM,59,1.72
 bbec97ff-bb84-4496-9e09-d4fc1570c516,Mawloc,40K,133,3.71
 bbedda3e-8cdd-4c80-97ef-89046840555d,Hissing Quagmire,EOS,64,1.43
 bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc,Island,USG,336,1.27
-bbfb3591-1f81-4576-828b-fd00fea599dd,Fellwar Stone,ECC,141,1.01
+bbfb3591-1f81-4576-828b-fd00fea599dd,Fellwar Stone,ECC,141,1.02
 bc010302-e715-4946-89eb-a214e0b836ba,"Aminatou, the Fateshifter",2X2,169,2.58
 bc0331b2-7a5b-46f5-9698-f185431ca711,Propaganda,AFC,91,3.90
 bc0cea66-7c61-4308-af2f-3622fbb82983,Channel,3ED,188,2.62
@@ -17948,7 +17960,6 @@ bd081bbf-8e82-405c-a522-f826fa0a6e1d,Island,SLD,416,13.39
 bd0b8aee-fbfb-470f-9ac2-64fce0b4b2fb,Immolating Gyre,JMP,20,4.81
 bd0bd038-727f-4e7e-8b87-fccc7b2ca0a6,Rhonas the Indomitable,J22,719,6.05
 bd0d5a0c-5dec-439c-b037-9d17dda5ead3,"Atraxa, Praetors' Voice",MUL,33,27.42
-bd0f0415-43af-4f5d-8999-853c5d42780d,Dwarven Mauler,HOB,95,1.03
 bd0f1d3e-a659-4c07-9e5d-b18750dc00fc,Plains,PAL04,1,1.92
 bd14d110-185d-4812-a992-902e7b0ab880,Archon of Coronation,CMR,616,2.38
 bd16e1a6-0ece-44d5-8221-25892178e927,"Garruk, Unleashed",M21,284,1.62
@@ -18019,7 +18030,7 @@ bdc6e950-38dd-46da-a1c3-58dc7495a9f9,Drowned Catacomb,M10,224,2.06
 bdc7e1ef-cbe0-4057-b528-6c1da07ff90b,Llanowar Wastes,OTC,305,2.25
 bdcd2ec9-a8e7-46b3-8d79-eb15d6e95a3c,"Vorinclex, Voice of Hunger",MUL,29,13.61
 bdcedbd8-fa14-4a99-8dbb-ea797172f021,Dash Hopes,PLST,PLC-68,3.17
-bdd2c783-1483-490a-ae93-c4664a0a9564,The One Ring,HOC,44,142.00
+bdd2c783-1483-490a-ae93-c4664a0a9564,The One Ring,HOC,44,148.28
 bdd581e3-6ed4-4a2c-91d6-ef3aa304b7e8,Gemstone Mine,PLST,WTH-164,2.50
 bdd814a3-6a58-4f56-b95f-efc9e030d1a7,Aura of Silence,WC98,bh7bsb,2.49
 bddcec63-a60a-4d73-af6d-9ac978703811,Fauna Shaman,UMA,164,3.62
@@ -18280,7 +18291,7 @@ c0504a24-4b92-471a-8da4-02ec57eb43be,Riding Red Hare,PTK,18,11.91
 c0516453-3e6a-4b7f-8df6-72a6e207169a,Clever Impersonator,C19,82,3.52
 c0564116-24c1-4b5d-bb9e-a0828fe164b7,Ledger Shredder,SPG,55,18.74
 c057dc0d-4017-4e60-9c5e-45fc569a8d31,"Jace, the Mind Sculptor",A25,62,17.01
-c05c2aa6-29c7-40f8-872e-91099b9225c4,"Bard, King of Dale",HOB,144,27.93
+c05c2aa6-29c7-40f8-872e-91099b9225c4,"Bard, King of Dale",HOB,144,27.43
 c060c178-3c0e-493f-b6f0-ead5b1d6f191,Survival of the Fittest,EXO,129,399.96
 c06274ff-892e-418b-8ba5-4d3b3231e327,Sorcerous Squall,LTC,504,1.01
 c062937f-d519-4206-99b0-cbea01b85a0d,"Thalia, Heretic Cathar",INR,44,2.39
@@ -18428,7 +18439,7 @@ c1f0544c-0124-497c-a8f1-5d5fb959ca39,Vaultborn Tyrant,BIG,50,87.84
 c1f2eaf7-7f08-446b-892f-5a844f74808f,Everglades,VIS,162,1.78
 c1f53d7a-9dad-46e8-b686-cd1362867445,"Westvale Abbey // Ormendahl, Profane Prince",SOI,281,3.49
 c1f56192-f9a4-4fb9-937f-7dfc6a83f361,Noxious Gearhulk,PKLD,96p,5.29
-c1f93f78-645b-4f21-a80b-5542f3328111,Sol Ring,TLE,316,6.58
+c1f93f78-645b-4f21-a80b-5542f3328111,Sol Ring,TLE,316,6.60
 c1fbb7bb-88c1-4164-88f3-59832ab5627d,Thousand-Year Storm,PGRN,207p,3.96
 c1ffdaf6-472e-46be-a74a-4be985b29df4,Wolf,SLD,1613,8.03
 c201946b-0746-4f8b-bd7b-84dc0fa60395,Simulacrum Synthesizer,MAR,61,19.84
@@ -18573,7 +18584,7 @@ c3905879-2110-488b-a4f3-e37e8a97c1b9,Indomitable Might,WOC,127,1.46
 c3909816-5cc2-4712-bc7d-534ae0b9229c,Eldrazi Conscription,UMA,3,3.22
 c390e074-bd30-4564-a39a-176af7df79f4,Walking Archive,DIS,169,3.32
 c3964a56-beec-40fe-a071-8f350c07724d,Damnation,SLD,2019,16.07
-c397a298-bf7f-49d7-a26a-206ccf9e8120,The Chief Warg,HOB,150,2.99
+c397a298-bf7f-49d7-a26a-206ccf9e8120,The Chief Warg,HOB,150,1.69
 c39be5b1-b693-4b1b-b40b-8bf6d1fe986d,Three Steps Ahead,MAR,62,2.84
 c39c412b-2f21-483a-b744-5d55bc007c0d,Terravore,ODY,278,25.66
 c3a0c43a-c03f-4070-aa46-f4107a1e3dd2,Abrade,DBL,406,1.18
@@ -19036,7 +19047,7 @@ c8a826a3-bd19-4c56-9b86-d6547714c684,Dragonlord Silumgar,SLP,9,18.40
 c8a8e37b-0b97-4355-8e00-169a82c38ea0,Nyxbloom Ancient,THB,330,34.77
 c8a9a3c7-e469-48df-9dbf-18008dd9f9dd,Dingus Egg,CED,242,2.35
 c8a9e705-90b9-4c72-8d38-c8b21e2c15a0,Gavony,OPC2,15,1.25
-c8aa5179-475b-4cc8-b21e-205b475eb4cf,Down in the Valley,HOB,124,13.14
+c8aa5179-475b-4cc8-b21e-205b475eb4cf,Down in the Valley,HOB,124,9.86
 c8ae31d1-9a6e-43f3-9b04-bd15699f73d6,Soldier,T10E,1,1.23
 c8b2fcc3-5c39-403b-8311-5760190388b2,Endless Atlas,40K,237,2.50
 c8b76a88-6b27-47d1-8bff-9d9118da8eee,Reins of Power,C16,96,2.38
@@ -19095,7 +19106,7 @@ c936504c-4e90-408f-ba98-0fb8c0378471,Lost Jitte,BIG,23,5.17
 c93f5113-1b61-4ba5-b77a-a9557a105e20,Mirrorform,PECL,59p,5.71
 c942a9af-e449-4f10-916c-6eb9e944de6a,Deathgrip,LEB,101,37.71
 c94538c3-320c-4903-a689-bb8e9f4ae40f,Winternight Stories,TDM,336,1.49
-c946b161-0e4f-4c0a-a075-cdcf05504d0b,Sol Ring,DRC,57,1.58
+c946b161-0e4f-4c0a-a075-cdcf05504d0b,Sol Ring,DRC,57,1.60
 c94a92a9-060e-42d3-a8d1-49425defc08a,Alert Shu Infantry,PTK,1,19.99
 c94b37df-aaa5-4981-be3b-c934a7971123,Essence Flux,INR,64,1.33
 c94fcb53-a7bd-4a80-a536-9fb0eb24261a,Alrund's Epiphany,KHM,41,4.53
@@ -19298,7 +19309,7 @@ cb1b3e27-5595-4aa3-a08a-e82723f3362e,Ley Druid,30A,201,8.00
 cb1bbd0b-a05a-4a6e-83d3-4bd067b7ef3a,Agatha's Soul Cauldron,PWOE,242p,35.65
 cb1d0254-985c-4d44-9cce-1d563e11f0a4,Seedborn Muse,9ED,270,13.98
 cb210e6e-fcd1-4ab7-9827-fa73fdce3825,Teval's Judgment,TDC,68,8.50
-cb25b11a-6bf5-4a9a-b60f-d4dcac3816d6,Bothersome Noisemaker,HOB,89,1.75
+cb25b11a-6bf5-4a9a-b60f-d4dcac3816d6,Bothersome Noisemaker,HOB,89,1.35
 cb265357-4201-4c80-aa05-a01657175364,Mob Verdict,MKC,343,1.13
 cb28d217-795e-4320-a032-cd713f7ecc8a,"Liliana, Dreadhorde General",FDN,176,7.58
 cb2f6737-8063-4e67-affc-42c4915d2db1,Iron Man Armor,MSH,427,8.30
@@ -19333,7 +19344,7 @@ cb80b956-24a4-4b22-b483-4e3fc66b7662,Steelshaper's Gift,CMM,629,8.45
 cb8796fd-ebf4-4fe3-b785-f48c65ff8257,Land Tax,WOT,9,21.48
 cb91055f-215a-4243-835b-35de515a2ba5,Pact of Negation,MB2,169,17.64
 cb91afab-0540-42c5-bb27-2a401d7aabca,Petrified Hamlet,PSOS,259p,2.21
-cb966ee6-bf1b-4bb6-9277-8de6f3918ae2,Dawn of a New Age,LTR,5,3.59
+cb966ee6-bf1b-4bb6-9277-8de6f3918ae2,Dawn of a New Age,LTR,5,3.63
 cb9a7b7d-3d37-4bb6-ab48-1fec2bfb4fdc,Tidal Control,ALL,40,1.06
 cb9aeba9-2e22-4cad-9946-dae24d1f4aa9,Treetop Village,GVL,27,1.14
 cb9b492f-a404-400f-be70-8b4901d2d82b,Bane of Progress,C13,137,2.13
@@ -19582,7 +19593,7 @@ cdfafa38-e7db-4a42-99b8-fc65ab41c572,Darksteel Citadel,SLD,608,25.10
 cdfd08aa-0e6b-42e1-aa4a-a2bd09581a70,Acererak the Archlich,SLD,1784,10.74
 cdffb058-1af0-41bb-956a-ae10e092c389,Jace Beleren,LRW,71,5.02
 ce00bb19-983e-427d-be54-ae6daf0ccdde,Lapis Lazuli Talisman,ICE,327,1.30
-ce01ff8f-a037-484f-9148-c847ffaabc5a,"Lotho, Corrupt Shirriff",LTR,213,13.15
+ce01ff8f-a037-484f-9148-c847ffaabc5a,"Lotho, Corrupt Shirriff",LTR,213,13.12
 ce045260-7811-45f7-8cbe-902b1cbc6177,"Mazirek, Kraul Death Priest",SLD,1766,5.47
 ce07bede-2219-427c-a61a-56518751de42,Raise Dead,LEA,122,43.05
 ce0c3b45-cf1d-4d85-9fe3-fb26b4b15dfd,Dragonlord Atarka,DTK,216,1.94
@@ -19621,7 +19632,7 @@ ce4ec853-411d-40a3-84a7-a62b3cb57cb3,Austere Command,CMR,12,1.00
 ce4f0474-48dc-4310-a016-0ec21bc29efb,Creative Technique,C21,49,2.02
 ce525e8e-3afd-4ed1-92a4-77346c462c30,Conversion,CEI,16,3.19
 ce54c7c1-3401-4414-8da0-5846cb0ae1b4,Channel,IMA,157,1.19
-ce55e00c-cd95-48eb-986e-edf5125f3534,Fellwar Stone,TDC,318,1.04
+ce55e00c-cd95-48eb-986e-edf5125f3534,Fellwar Stone,TDC,318,1.01
 ce561d66-bdfd-408f-bf5b-49b4a53d3807,Snow-Covered Forest,MB2,120,2.35
 ce56c997-202c-4175-809b-2dd65cd2ab2a,Dingus Egg,3ED,244,1.46
 ce573cee-40e0-4740-8b86-538ad8a16bce,White Knight,3ED,44,1.13
@@ -19647,7 +19658,7 @@ ce860ed4-a5bd-4347-9eab-dd716ea84db1,Bloodthirsty Conqueror,FDN,58,40.13
 ce8965f2-756a-4461-a643-db024a11c2de,Ominous Seas,IKO,61,1.18
 ce89ded2-db31-43c0-b00c-999d5d3fa5c6,Sarkhan Vol,ALA,191,3.08
 ce9049ad-2bcd-4b5e-b09c-06424cf76cdc,"Akroma, Angel of Wrath",A25,2,4.43
-ce9347e8-962f-4fc1-808f-b59ac751de13,Raise the Palisade,MSC,278,4.57
+ce9347e8-962f-4fc1-808f-b59ac751de13,Raise the Palisade,MSC,278,4.49
 ce9cf26d-f214-4e76-b000-8dd895cce8d9,Rot Hulk,GNT,3,3.44
 cea3b218-0e6e-443a-84f7-380f1021e8e1,Barrowgoyf,M3C,102,13.87
 cea60340-bbdb-48e2-94a6-5ac1197e978a,Autumn Willow,HML,83,1.89
@@ -19891,7 +19902,7 @@ d1015077-3c6d-4c46-a240-26b74e453cd8,Disenchant,PARL,6,10.87
 d102fea4-e43d-42df-b5e6-31c8007658ee,Jayemdae Tome,PTC,et331,3.30
 d1031ce5-063f-4c38-a6a9-abc15d254dfc,Champions from Beyond,FIC,11,4.45
 d1042a84-4550-4ff3-933e-a9c2d26d1bd3,Mana Clash,8ED,202,1.14
-d105068a-d4f1-4971-b5a0-72806a798497,Sol Ring,FIC,357,1.38
+d105068a-d4f1-4971-b5a0-72806a798497,Sol Ring,FIC,357,1.39
 d109abda-982f-4907-8b64-ec63e138bc42,Reiver Demon,MRD,75,1.35
 d109b70e-862f-4d8a-8b40-ef6dc904868f,Hedron Crab,TDC,155,2.90
 d10b5ce7-16c9-48f3-a1da-8a91092d053a,Kukemssa Pirates,MIR,71,1.89
@@ -20142,7 +20153,7 @@ d3c0aac5-b9f1-4446-bfea-3e1dd1cf1f2f,Damnation,2X2,73,20.60
 d3c0c1da-e14f-4ce5-a639-c9bb8af0baab,Timetwister,30A,381,1479.98
 d3c58997-5555-423a-822e-749fac90e392,Ophidian Eye,PLST,TSP-70,11.73
 d3ca43a4-d194-440f-8099-f1fa103a108d,Aven Interrupter,OTJ,4,3.37
-d3cbe830-7e95-4019-89c4-cfb36bcf00f8,Nighthowl Pursuer,HOB,78,2.99
+d3cbe830-7e95-4019-89c4-cfb36bcf00f8,Nighthowl Pursuer,HOB,78,1.69
 d3cc06d1-f8c7-49f3-a8e4-2f241acf1829,Sneak Attack,SLD,2178,15.73
 d3ce5a64-ff34-44d7-8315-c75033fd69c2,Mirage Mirror,PHOU,165p,3.28
 d3ddbe51-cd1a-4b2c-849a-7c82d622122a,Mijae Djinn,ARN,42,49.24
@@ -20565,6 +20576,7 @@ d86768d5-0ae4-4171-a8f0-cbf7be6f35a4,"Lier, Disciple of the Drowned",PMID,59p,2.
 d869c60b-3aa2-4a90-aa93-5d4c5afd1672,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",FIN,428,2.60
 d86eab36-2059-49d4-8284-8579192a76c0,"Drivnod, Carnage Dominus",PONE,90p,8.04
 d873c678-c8f2-40f0-ab03-a2fdf5187aea,Earthshape,TLE,67,7.50
+d876315f-b269-4254-a517-905c6e927462,The Notary Hobbits,HOB,131,19.95
 d879226b-8ee3-4a48-b03a-d183594dc586,Turbulent Dreams,TOR,49,2.71
 d87a40cb-b30d-41ce-8e11-5fe3136fdadd,Sea Drake,P02,45,1.54
 d8855d65-98fc-4b5f-bd68-95d2fda6345f,Bearscape,SLD,1008,21.15
@@ -20655,7 +20667,7 @@ d980e9c0-db88-41f9-8dbf-89f0e1ac6c20,Chaoslace,LEB,140,45.60
 d98bed02-600c-4cb3-bff5-960d362861fb,Drannith Magistrate,TLE,2,9.23
 d98c546e-2933-4833-b47b-084db56fb5d6,Beast,TDDD,T1,1.85
 d98f0e44-f5c7-4e08-8a4a-d0280f22d132,Lethal Protection,SPE,10,1.41
-d9919a30-d60e-438e-b132-22e56b3cdf68,The Lonely Mountain,HOB,248,77.33
+d9919a30-d60e-438e-b132-22e56b3cdf68,The Lonely Mountain,HOB,248,71.24
 d992b336-3b6e-43e1-8662-d85664349b44,Siren's Call,LEA,77,50.99
 d993c973-2eb6-423c-8ee9-10749a751524,Riptide Laboratory,ONS,322,2.58
 d9943669-dc56-49b2-9a65-35ec7be69a18,The Convention Enthusiast,UNK,RZ05l,100.22
@@ -20974,6 +20986,7 @@ dd18851b-5e8d-4d56-b58c-f62b8e43ba0d,Ancestral Vision,DD2,21,2.45
 dd1d4fae-2be2-4efe-97ee-838c8965e447,"Boromir, Gondor's Hope",LTC,132,1.21
 dd1eaa0e-060d-40f1-84c5-f7e8df2f824c,Taunt from the Rampart,LTC,71,3.92
 dd1fce25-681b-4355-b872-78adc6bb4dad,Force of Nature,CEI,195,7.88
+dd1fd2ab-2565-4798-a832-fc849df82f74,Elven Passage,HOB,181,6.47
 dd21a925-c76f-4c1d-b5b8-8d3352730e5f,Marionette Master,AFC,102,3.47
 dd222c07-0b28-41cb-9237-ad7991ab078f,Cathedral of War,M13,221,1.68
 dd27a624-1cad-4b25-9a46-1c1380cb488a,Fireball,30A,145,1.17
@@ -21208,7 +21221,7 @@ df1df511-b52c-45cd-9503-ffce4271a802,Grinding Station,5DN,127,18.33
 df2370ea-9bb8-496f-aaf5-f0bb3bb55f9b,Reliquary Tower,CMM,663,7.56
 df25ab56-3f87-4d63-915d-dacfbad17a4f,"Bugenhagen, Wise Elder",FIC,159,2.50
 df25ffdd-995d-46ae-856b-f6368f9438ed,Barbary Apes,LEG,176,1.32
-df29484b-de4b-4bab-995a-7605745780d9,Last Light of Durin's Day,HOB,103,9.55
+df29484b-de4b-4bab-995a-7605745780d9,Last Light of Durin's Day,HOB,103,6.73
 df29d8e6-f195-46db-9307-41687b5f0f20,Darksteel Citadel,BRC,180,3.93
 df2c5d5c-f1c9-4639-bf72-3f6bde554864,Armageddon,2ED,2,195.00
 df2da310-28c9-41a8-93ad-c7b0a3a367dd,Seething Song,ARC,46,13.87
@@ -21822,7 +21835,7 @@ e5ead59f-4c09-4b56-913e-4ff5d6d48ac2,"Appa, the Vigilant",TLE,62,4.78
 e5f2648f-990d-44d7-a7bf-0db99bdc3015,Waterbender Ascension,TLA,310,1.55
 e5f293d7-9c2b-41cb-8e3c-dfc1daa6635f,Propaganda,CLB,730,4.72
 e5f336d8-12a4-482d-8ffd-c205858c72ba,"Crosis, the Purger",INV,242,4.48
-e5f3bd60-cdeb-48bc-9209-c01686938bfb,Lightning Greaves,SLD,IFIYW-4,4.97
+e5f3bd60-cdeb-48bc-9209-c01686938bfb,Lightning Greaves,SLD,IFIYW-4,4.96
 e5f43eec-d158-4060-9235-9b8128a48dca,Villainous Wealth,PKTK,211p,3.39
 e5fa557c-b23c-4e56-aedb-c51d2e20cda6,"Marchesa, the Black Rose",SLD,2009,4.11
 e5fdcd21-55a3-4cad-8b73-3d6f85a69ce1,Sword of Wealth and Power,BIG,91,30.96
@@ -21865,7 +21878,7 @@ e66d87a5-7b67-4ec5-b5e2-518d67123118,Phyrexian Delver,INV,115,1.19
 e66ff696-fd39-49ad-9ee5-c0868167df37,Riverchurn Monument,DFT,57,2.01
 e6702f47-cb5c-46fc-a611-f2194ec5c851,Exalted Sunborn,PEOE,15p,17.52
 e670a4e5-7992-419b-8af3-7d622fbe39b2,Gitaxian Probe,PLST,NPH-35,6.99
-e672d408-997c-4a19-810a-3da8411eecf2,Sol Ring,C19,221,1.61
+e672d408-997c-4a19-810a-3da8411eecf2,Sol Ring,C19,221,1.62
 e673fb51-d36c-42fb-91bf-805812522064,Ultima,FIN,328,2.16
 e67477a4-6878-4356-8037-807f41590ad1,Island,DMU,278,1.30
 e6748788-496c-42b4-9f68-e0bd5692b511,Serra the Benevolent,SLD,1252,7.85
@@ -22537,7 +22550,7 @@ ed7bcbf1-9045-4810-93fa-9918c45856ca,Bloodstained Mire,ZNE,3,36.89
 ed7f95b9-ae7a-43cd-b104-5b615ef585bc,Loki's Scepter,MSC,367,11.36
 ed82f466-ee1c-4942-9b4d-a8bffd548b30,Plains,PTK,166,2.90
 ed875705-b7b6-4464-b16f-61629ffed04f,Chandra's Incinerator,M21,136,2.81
-ed87b471-79f9-45ec-9188-69e970f6121e,The Sackville-Bagginses,HOB,83,19.99
+ed87b471-79f9-45ec-9188-69e970f6121e,The Sackville-Bagginses,HOB,83,11.92
 ed8b624f-e888-4ee4-9ca2-9a0f2f30a9f7,Niko Aris,PKHM,225p,1.17
 ed9110d1-508f-4c87-a49e-6ec00039d924,Fallen Shinobi,NCC,338,7.46
 ed94c73e-25d3-43bb-bdaa-b05f9b972216,Darkness,40K,197,17.01
@@ -23255,7 +23268,7 @@ f532bca1-a115-4fe7-847e-296677bdd3ee,"Braids, Cabal Minion",EMA,82,1.54
 f53d8540-fb6d-4d4c-b467-ebfbfa53c880,Vendilion Clique,MOR,55,4.65
 f54eb705-6326-4bac-bf0e-68d42db7a270,"Brimaz, King of Oreskos",BNG,5,8.90
 f54ecbf1-83df-4486-bd6a-7d1f173b6863,Ureni of the Unwritten,TDC,9,12.80
-f54f1c1d-6a22-43e9-a842-0a1ae25b323c,"Orcrist, Goblin-cleaver",HOB,177,49.26
+f54f1c1d-6a22-43e9-a842-0a1ae25b323c,"Orcrist, Goblin-cleaver",HOB,177,47.52
 f550c4e2-a9ba-4bd6-9ba6-94fa5b02e27a,Darkpact,3ED,100,1.00
 f550f44f-8b8f-4c1d-a583-9fd986d3061c,Shields of Velis Vel,LRW,39,1.52
 f5559960-e306-4992-b607-9654327c4507,From Beyond,BFZ,167,1.05
@@ -24107,14 +24120,14 @@ fe17b08f-4790-4885-8b2b-b22f00b52d4e,Witch's Clinic,C21,81,14.40
 fe1a99b3-5ff4-48d4-8603-7271f12269f4,Janosch Kühn Bio (2000),WC00,jk0a,1.49
 fe1ecd63-075b-4eda-a9f7-d7f282c81d3b,Rumbleweed,OTC,32,3.61
 fe1f0f9e-556c-40b7-bba9-a539c4c4fd30,Liliana's Triumph,TSR,327,1.33
-fe202721-c5be-46de-9fb3-ac18c699e10d,Sol Ring,DRC,56,1.38
+fe202721-c5be-46de-9fb3-ac18c699e10d,Sol Ring,DRC,56,1.39
 fe241460-f7c1-4ba8-a156-6720b494ac97,Snow-Covered Forest,KHM,285,1.18
 fe25aa5f-3bc9-46c2-89da-09cb6678fba7,Kessig,OPC2,21,2.19
 fe285a48-9a13-4bfa-9426-fb1fe7703a82,Chaos Warp,PLST,C17-131,2.91
 fe28de73-76f3-4a9e-a020-dbe5921b9be5,"Kethis, the Hidden Hand",M20,211,3.65
 fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8,"Avatar Aang // Aang, Master of Elements",TLA,207,3.08
-fe2b4bcf-56de-44d3-83af-aeb27f82c25e,Woodland Weavemaster,HOB,143,1.61
-fe2fe8fa-3b99-44c1-bab9-922e5c864952,"Thranduil, the Elvenking",HOB,167,18.44
+fe2b4bcf-56de-44d3-83af-aeb27f82c25e,Woodland Weavemaster,HOB,143,1.26
+fe2fe8fa-3b99-44c1-bab9-922e5c864952,"Thranduil, the Elvenking",HOB,167,18.65
 fe332c46-90f0-4cc0-8bf1-35a3934ff8a0,Shared Animosity,MOR,104,3.94
 fe388da5-9197-4d07-be7f-c49fcdf56dfa,"Grimgrin, Corpse-Born // Grimgrin, Corpse-Born",SLD,1461,13.96
 fe3fbedf-fe21-4b19-b383-20d986ea2117,Antoine Ruel Bio,WC01,ar0a,8.09
@@ -24300,7 +24313,7 @@ ffef6ac8-a42c-4025-b4ef-3f772129b8f7,Manabarbs,5ED,250†,4.99
 fff02fcd-241e-4a3e-a0d0-5adc90e7d0db,Blasphemous Act,2XM,117,2.28
 fff13d77-8133-4328-b91e-efce229bc331,White Sun's Twilight,ONE,38,2.65
 fff271af-abc2-44c2-b2de-d77dee87604d,"Urabrask, Heretic Praetor",PSNC,129p,2.46
-fff440c0-7e6a-46c2-9989-f1b5af20fd44,Sol Ring,BLC,129,1.95
+fff440c0-7e6a-46c2-9989-f1b5af20fd44,Sol Ring,BLC,129,1.97
 fff6846e-5f88-4976-b867-5b176f5e8c7d,Steel of the Godhead,PLST,SHM-150,2.48
 fffcbc4e-c6dc-4808-b262-f7c453e74dd8,Celestine Reef,DCI,42,2.00
 fffdf7f3-a230-417a-883a-069aabcbcca7,Faerie Bladecrafter,WOC,14,4.82
