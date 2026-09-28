@@ -8041,6 +8041,7 @@ id,name,set,collector,newPrice
 513d4c36-6ad4-4ee9-b161-3136eb59504f,Coat of Arms,DDS,58,20.56
 5140d5d0-15ad-45b2-8ae8-aa53b1cd8132,"Ojer Axonil, Deepest Might // Temple of Power",LCI,317,24.55
 514154e5-931f-4924-aef1-8e66d2efe16f,Death Cloud,PLST,DST-40,3.32
+5142bbb6-194c-4b12-b11a-1a21c9fe81a6,Solitary Cell,FRA,149,1.87
 514577a5-c7ae-4cfc-872a-e3786d78a6c3,Time of Need,CHK,247,4.24
 5149ffff-d38f-458e-bcfa-a4b6b332a0b4,Xenic Poltergeist,ATQ,20,5.51
 514ad860-dff2-45f2-ad5c-77c776c1cf74,"Y'shtola, Night's Blessed",FIC,207,189.49
@@ -11087,7 +11088,7 @@ id,name,set,collector,newPrice
 70c679a2-bddf-48ad-ad02-fd747d1df536,"Kaalia, Zenith Seeker",PM20,210p,13.08
 70c75aa7-e2f9-4a69-8086-c982019ca714,Sovereign Okinec Ahau,LCI,240,4.58
 70c868b7-1600-449a-abd2-9836bce0e1f1,"Samut, Vizier of Naktamun",MAT,95,1.35
-70cbf43a-d6d0-4777-807d-537257879ca5,Vindictive Triumph,FRA,377,3.51
+70cbf43a-d6d0-4777-807d-537257879ca5,Vindictive Triumph,FRA,377,2.03
 70cec0dd-b424-4f57-965d-d054089ece21,Blue Elemental Blast,CEI,50,10.43
 70d0540f-93c6-4af5-ab2d-65e6c03001c7,The Meathook Massacre,INR,122,24.28
 70d13ff4-e6ba-4bfe-9668-d11f7facb8d3,Rhythm of the Wild,NEC,142,5.21
@@ -12393,7 +12394,7 @@ id,name,set,collector,newPrice
 7db8f11d-19c4-4b5b-8cb8-2ca86534ad2c,Squirrel Mob,BLC,85,8.12
 7db9df42-042d-48a0-ac28-228b72a0b19a,Doppelgang,MKM,414,2.35
 7dbd0e3c-b26d-4080-b7cf-1c64fce09668,Shadow of Doubt,RAV,253,3.61
-7dbd1d94-9ae2-46dc-9ece-26e72a323fd1,Battlefield Forge,BRO,297,2.74
+7dbd1d94-9ae2-46dc-9ece-26e72a323fd1,Battlefield Forge,BRO,297,2.57
 7dc7091e-0c98-434d-9190-dcab813d3e14,Enduring Ideal,SOK,9,2.71
 7dc8e9cc-1aac-4709-9629-9f4318c86cb0,Quietus Spike,NCC,377,1.94
 7dc9f4a4-fbbf-448b-a2ee-720868968586,Dimir Signet,NCC,365,1.99
@@ -13380,7 +13381,7 @@ id,name,set,collector,newPrice
 87c899c1-401f-4090-8f71-307e7106cdf2,Dig Through Time,MAR,54,1.01
 87cc2855-6b14-44dd-a398-7dc2bbae081f,Kaldra Compleat,MH2,227,9.21
 87cea56a-b64f-452a-8e4b-40363aabb452,Moss Diamond,MIR,312,1.23
-87d2bb1a-7dbf-41bc-bbfd-20e25fe19f52,Omnipresence,FRA,331,60.07
+87d2bb1a-7dbf-41bc-bbfd-20e25fe19f52,Omnipresence,FRA,331,48.52
 87da5ad8-b35f-4f9c-b17a-bb2563cbc186,Ashnod's Altar,EMA,218,15.97
 87e03d07-c491-4ea1-a2f7-49c022005059,Withering Torment,DSK,313,3.17
 87e138c7-1166-4e20-b039-e94c1319ad42,Southern Elephant,PTK,146,2.31
@@ -16515,7 +16516,7 @@ a7fd9517-a063-4c42-8e1c-c298b314b798,Bottomless Pit,SLD,1404,17.20
 a7fd9ede-cc6e-4a96-934b-d91d4aa7fa0a,Ezzaroot Channeler,C21,60,1.30
 a7fef31b-1dcb-4b87-b0da-e942571efe2b,Introductions Are in Order,OARC,21★,1.36
 a8003786-6e2a-4e2d-a915-f23293c7273a,Soul-Scar Mage,AKH,148,1.09
-a803dbe7-153a-4e92-ad4d-c2babebe003d,Vindictive Triumph,FRA,162,1.82
+a803dbe7-153a-4e92-ad4d-c2babebe003d,Vindictive Triumph,FRA,162,1.03
 a804f742-f7cf-427e-ad0a-742587328156,Dingus Egg,2ED,242,15.07
 a80582b1-09db-45f8-b362-0e5207a5a8e6,Volcanic Eruption,LEA,88,315.00
 a808459c-f086-4cb6-a53e-4b9e196c1000,Delver of Secrets // Insectile Aberration,SLD,2367,6.78
@@ -16683,7 +16684,7 @@ a9b07dc4-21ad-410b-8f8a-2b034253bfee,Relic Bind,LEG,71,2.04
 a9b86d97-3cfa-4510-a3da-1a85cd8d2ba9,Titanic Ultimatum,DDH,31,3.47
 a9bbf20d-52eb-4a5b-8f86-ba80caf23e1f,Faithful Mending,DBL,221,5.46
 a9be1058-0668-4938-8801-e9a98464651c,Vampiric Link,PLC,92,3.26
-a9c25e71-0140-48fe-8b9e-33b4b50c5c12,Battlefield Forge,APC,139,10.69
+a9c25e71-0140-48fe-8b9e-33b4b50c5c12,Battlefield Forge,APC,139,10.60
 a9c717bf-0b1d-4234-8909-22488aed7379,"Agent Bishop, Man in Black",TMT,258,1.17
 a9c78104-685c-43d0-b0ba-4363725e108c,Shattered Sanctum,PVOW,264p,4.83
 a9c87b4d-6e19-4b28-9041-821289f9cd1a,"Athreos, God of Passage",PLST,JOU-146,13.66
@@ -18095,7 +18096,6 @@ b7d40417-124b-4231-92f8-c4a55729afdc,Swamp,WC03,pk341,1.78
 b7d72bd6-3229-4a50-886b-fc4226238de2,Moggcatcher,PLST,NEM-96,12.69
 b7daee4c-6b2d-4308-a76a-0326e09a9d1c,Gift of Estates,PLST,C14-73,1.99
 b7e23534-8c19-449b-bbdd-3c411e42c9c9,Mirri's Guile,MB2,209,9.55
-b7e8929c-416e-4649-9147-ec88001c6c1c,Solitary Cell,FRA,355,4.64
 b7e90355-80ca-49db-914c-62b3a7bd4726,Beast Whisperer,KHC,54,9.04
 b7e92375-037c-4be1-8183-6261e0666e12,Poison-Tip Archer,BLC,256,1.41
 b7ea0b25-19e3-4d75-9daa-9110dce7e6fd,Clone Legion,TLE,12,1.96
@@ -22173,7 +22173,7 @@ e0d18742-d661-4223-8880-9ed995379b2e,Approach of the Second Sun,STA,1,7.94
 e0d88029-2569-461b-a57d-1af10673f4cf,Chrome Mox,SLC,2003,180.10
 e0dbbdcf-84e1-494f-8b8c-0a094f603fa9,Bruce Banner // The Incredible Hulk,MSH,49,4.30
 e0ddcf4a-1943-49dd-a02c-75804ce4bc3e,Blistering Firecat,ONS,189,7.13
-e0df1e5f-8cef-4e13-babf-4254a85ac46b,Battlefield Forge,10E,348,3.07
+e0df1e5f-8cef-4e13-babf-4254a85ac46b,Battlefield Forge,10E,348,3.06
 e0e26f6c-44e9-4d6f-8eb1-efdef8d04ff5,"Kira, Great Glass-Spinner",SLD,421,8.54
 e0e4a509-09bb-41e5-a37a-53d98c7f2e04,Smoldering Marsh,NCC,428,1.03
 e0e8b086-54fb-4b05-a1bb-8e91b64027f9,"Storvald, Frost Giant Jarl",AFC,327,2.18
@@ -23122,7 +23122,7 @@ eaedf482-9f2c-497a-bf1c-bebb4168c52f,Sword of Hours,AFC,61,4.80
 eaf14be9-b943-4002-b29d-a5e03bcb89ef,Earthquake,PTC,mj189,2.99
 eaf56de3-a2c5-476a-9fac-f149e8c3aa3d,Second Harvest,SLD,2380,11.95
 eaf86997-68e8-4c37-99f1-db10ac08f54c,Mechanized Production,MKC,109,2.92
-eaf9dc77-c83b-49cf-84be-6bd791cb925e,Omnipresence,FRA,110,25.16
+eaf9dc77-c83b-49cf-84be-6bd791cb925e,Omnipresence,FRA,110,9.58
 eafbc345-7f8a-4173-9168-fbaefdd42f2e,Dirtcowl Wurm,BRB,19,3.54
 eafbeafb-ef84-4a8d-9ca8-ca305b1feeea,Counterintelligence,PTK,41,10.49
 eaff0a1e-b65a-422f-8f9f-65fac037047d,Rockfall Vale,MID,266,3.33
@@ -25169,7 +25169,7 @@ ff94a960-f9f4-4787-a844-b02837a2ec0b,"Beza, the Bounding Spring",PBLB,2p,3.39
 ff971ba7-68b8-482a-9cb1-741f6893550c,"Jadar, Ghoulcaller of Nephalia",MID,108,2.17
 ff984cb9-cd72-47a4-adce-2521c025679b,Sapling Nursery,ECL,328,2.78
 ff990293-3e73-4c01-9b79-707339c8b28b,Mulldrifter,SLD,168,2.27
-ff9aa863-8773-452d-946c-ae334c632e11,"Eshki, Temur's Roar",TDC,3,2.32
+ff9aa863-8773-452d-946c-ae334c632e11,"Eshki, Temur's Roar",TDC,3,2.40
 ff9d0f64-2bc2-42da-a2f3-f56235c2bf54,Wheel of Misfortune,SLD,1300,40.39
 ff9d13ab-f730-46f9-8164-d465e4245e1f,Underground River,WC02,cr350,2.15
 ffa2b070-952e-4242-83bb-3e73135ceeeb,"Sidisi, Brood Tyrant",KTK,199,1.38
